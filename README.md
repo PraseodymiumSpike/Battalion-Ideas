@@ -7,11 +7,15 @@ Titan, Immutable, Moves and Captures 1 Square along Rook Lines, has properties l
 
 The Devourer: cannot be Captured unless its last movement either did not Capture or Captured only Immutable Pieces
 
-The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise, causes the Player Controlling it to lose immediately if it visits a Square it has already been on at least once previously in the game even if this checkmates its Opponent or fulfils any other victory condition
+The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise, causes the Player Controlling it to lose immediately if it visits a Square it has already been on at least once previously in the game even if this would fulfill a victory condition such as checkmate
 ### Wing
 Moves and Captures along Bishop Lines
 ### Claw
-Moves but doesn't Capture 1 or 2 Squares Forward along Rook Lines from any position without jumping, Captures 1 Square Forward along Bishop Lines, promotes to Talon, can be Captured *en passant* as if it were a Medieval Pawn whenever it moves 2 Squares straight Forward, can Capture *en passant* as if it were a Medieval Pawn, can move 1 Square sideways along Rook Lines from or within the Battlefield
+Moves but doesn't Capture 1 or 2 Squares Forward along Rook Lines from any position without jumping, Captures 1 Square Forward along Bishop Lines, promotes to Talon, has properties listed below
+
+En Passant: can be Captured *en passant* as if it were a Medieval Pawn whenever it moves 2 Squares straight Forward, can Capture *en passant* as if it were a Medieval Pawn
+
+Battlefield Movement: can move 1 Square sideways along Rook Lines from or within the Battlefield
 ### Talon
 Moves and Captures to Knight Squares
 ### Arm
