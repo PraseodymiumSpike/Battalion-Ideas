@@ -7,7 +7,7 @@ Titan, Immutable, Moves and Captures 1 Square along Rook Lines, has properties l
 
 The Devourer: cannot be Captured unless its last movement either did not Capture or Captured only Immutable Pieces
 
-The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise, cannot visit the same Square twice in the game, causes its Opponent to win immediately if unable to Move or Capture when it is required to, prevents the Player Controlling it from Passing their Turn or achieving a Draw due to being Stalemated
+The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn; cannot Move or Capture otherwise; causes the Player Controlling it to lose immediately if it visits a Square it has already been on at least once previously in the game even if this checkmates its Opponent or fulfils any other victory condition
 ### Wing
 Moves and Captures along Bishop Lines
 ### Claw
