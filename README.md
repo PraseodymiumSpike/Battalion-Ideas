@@ -5,9 +5,9 @@ This is adapted from an still-untested Ordamirror variant that I made a while ag
 ### Worm Titan
 Titan, Immutable, Moves and Captures 1 Square along Rook Lines, has properties listed below
 
-The Devourer: cannot be Captured by an enemy Piece unless its last movement either did not Capture or Captured only Immutable Pieces
+The Devourer: cannot be Captured unless its last movement either did not Capture or Captured only Immutable Pieces
 
-The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise, cannot visit the same Square twice in the game, Captures itself if unable to Move or Capture when it is required to
+The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise, cannot visit the same Square twice in the game, causes its Opponent to win immediately if unable to Move or Capture when it is required to
 ### Wing
 Moves and Captures along Bishop Lines
 ### Claw
