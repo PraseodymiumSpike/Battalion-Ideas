@@ -15,6 +15,7 @@ The Supporter and its mechanics are be described here. Some of the rules surroun
 #### Basic Information
 1. The Supporter may Move but not Capture to another Space within 2 of the Space it's on, and it cannot move to a Space occupied by another non-Haunted non–Cultist-Hex Piece. It is not impeded by Any Pieces in the way. If there is a Haunted or Hex on the Space a Supporter moves to, this does not result in the Haunted or Hex Capturing itself; they share that Space.
 2. Supporters don't count as Pieces for determining groups for wéiqí-style Capture.
+
 |t|t|t|t|t|
 |t|m|m|m|t|
 |t|m|L|m|t|
