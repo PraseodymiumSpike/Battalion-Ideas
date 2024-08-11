@@ -1,6 +1,6 @@
 # Great Worm
 ## Preface
-This is adapted from an still-untested Ordamirror variant that I made a while ago which can be found [here]([url](https://praseodymiumspike.neocities.org/Snake_in_Ordamirror)). However, it is so different from that variant that I think it's reasonable to have it be my "brand-new" Battalion for this event. The idea of having the entire Battalion be a single monstrous creature is taken from Mad Chess.
+This is adapted from an still-untested Ordamirror variant that I made a while ago which can be found [here](https://praseodymiumspike.neocities.org/Snake_in_Ordamirror). However, it is so different from that variant that I think it's reasonable to have it be my "brand-new" Battalion for this event. The idea of having the entire Battalion be a single monstrous creature is taken from Mad Chess.
 ## Pieces
 ### Worm Titan
 Titan, Immutable, Moves and Captures 1 Square along Rook Lines, has properties listed below
