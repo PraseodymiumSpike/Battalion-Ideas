@@ -1,3 +1,3 @@
 context: https://discord.gg/vcyCJS3Y
 
-See [folder](https://github.com/PraseodymiumSpike/Battalion-Ideas/tree/main/Battalions) for actual Battalion information!
+See [folder](https://github.com/PraseodymiumSpike/Battalion-Ideas/tree/main/Battalions) for Battalion information!
