@@ -2,13 +2,13 @@
 ## Preface
 This Battalion is a work in progress. It is based on the video game _Ataxx_ by Leland Corporation. The most important Piece from this perspective is the Supporter. This is the Piece Type whose mechanics actually mirror _Ataxx_. I have no idea if this is going to work well as a mechanic or not. We will have to see. The Piece Type names are based on a vague stereotype of a first-world or second-world political party. The ideology is ambiguous, but the party does not shy away from coercion.
 
-This shouldn't be the final document for this Battalion, either. This is just temporary. Roland will hopefully make a proper document for it if this idea goes anywhere.
+This shouldn't be the final page for this Battalion, either. This is just temporary. Roland will hopefully make a document for it if this idea goes anywhere.
 ## Volatile Pieces
-This Battalion has a mechanic under which some Friendly or Enemy Pieces can be Volatile. All Supporters are always Volatile, and other Pieces are chosen during placement to be Volatile; this is explained below. Volatility is an additional property a Friendly or Enemy Piece has in addition to being of the Piece Type that it is. For example, an Eagle that's Volatile is still an Eagle.
+This Battalion has a mechanic under which some Friendly or Enemy Pieces can be Volatile. All Supporters are always Volatile, the Whip begins the game Volatile, and other Pieces are chosen during Placement to be Volatile; this is explained below. Volatility is an additional property a Friendly or Enemy Piece has in addition to being of the Piece Type that it is. For example, an Eagle that's Volatile is still an Eagle.
 
 All Volatile Pieces have a special interaction with the Supporter; this interaction is explained below as well. All Volatile Pieces remain Volatile if they Promote, Demote, switch sides, are Captured and go to Hand, or do anything else as long as that thing doesn't result in their becoming Immutable or their becoming a Titan. If it does result in their becoming Immutable or a Titan, they no longer remain Volatile unless they are now a Supporter for some reason.
 
-For each Volatile Piece, the first time in the game that it changes its position such that the Space that it left is either empty or contains no Pieces other than Haunted or Cultist Hexes, it creates a Supporter on the Space that it just left.
+For each Piece that is selected to be Volatile during Placement, the first time in the game that it changes its position such that the Space that it left is either empty or contains no Pieces other than Haunted or Cultist Hexes, it creates a Supporter on the Space that it just left.
 ## Pieces
 ### Supporter
 The Supporter and its mechanics are be described here. Some of the rules surrounding the Supporter are listed below. Note that in some ways, the Supporter acts like a property of a Square on the Board instead of like an actual Piece.
@@ -44,7 +44,7 @@ If an Enemy Supporter Moves to a Space adjacent to a Chairman while it is not Im
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"
 ### Whip
-The Whip may Move without Capturing 1 Square along Queen Lines. When it is Captured, the Player who Captured it may if possible select 1 non-Immutable non-Titan Piece from those Controlled by the same Player who was Controlling the Whip before it was Captured, and the selected Piece becomes Volatile.
+The Whip may Move without Capturing 1 Square along Queen Lines. It is immune to being Captured. It also begins the game as a Volatile Piece. When Any Whip switches sides, the Player who gained Control of it from that may if possible select 1 non-Immutable non-Titan non-Volatile Piece from those Controlled by the same Player who was Controlling the Whip before it switched sides, and the selected Piece becomes Volatile. Note that as it is selected to be Volatile during Plaacement but is instead already Volatile, it does not leave a Supporter behind when it moves for the first time.
 | | | |
 |-|-|-|
 |m|m|m|
@@ -105,7 +105,7 @@ The Judge Leaps or Captures to Knight Squares.
 
 As can be seen above, the Starting Territory must be placed so that the Battlefield extends 1 Space in both directions away from the portion directly in front of the Starting Territory. This is intended to prevent possible issues caused by odd placement.
 ## Beginning of the Game
-If at least 1 Player is using The Party as their Battalion, after a Player places their Territory, that Player's Opponent may select exactly 2 of that Player's non-Titan non-Immutable Pieces to be Volatile; Volatility is explained above. In Party Mode, each Player would have Volatile Pieces selected by the Opponent Targeting them.
+If at least 1 Player is using The Party as their Battalion, after a Player places their Territory, that Player's Opponent may select exactly 2 of that Player's non-Titan non-Immutable non-Volatile Pieces to be Volatile; Volatility is explained above. In Party Mode, each Player would have Volatile Pieces selected by the Opponent Targeting them.
 ## Future Possibilities
 * changing the Starting Territory and the Whip
 * making Volatile Pieces immune to Capture, at least for 1 Turn after switching sides
