@@ -99,7 +99,7 @@ The Judge Leaps or Captures to Knight Squares.
 |^|^|^|^|^|^|^|^|
 |-|-|-|-|-|-|-|-|
 |x|P|P|P|P|P|P|x|
-|x|J| |S|S| |J|x|
+|x| |J|S|S|J| |x|
 |x|M|S|W|C|S|M|x|
 |x|x|x|x|x|x|x|x|
 
