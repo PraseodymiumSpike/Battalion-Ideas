@@ -22,3 +22,12 @@ B d C
  DDD
 ```
 * In the above diagram, assuming it started on the space marked "$", it could Move or Capture to a Space labeled "A" through the one labeled "a", it could Move or Capture to a Space labeled "B" through the one labeled "b", or so on.
+## Starting Territory
+```
+\********\
+xAAAAAAAAx
+x        x
+x STWUTM x
+xxxxxxxxxx
+```
+* In the above diagram, "U" is used for the Wile.
