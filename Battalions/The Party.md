@@ -105,7 +105,7 @@ The Judge Leaps or Captures to Knight Squares.
 
 As can be seen above, the Starting Territory must be placed so that the Battlefield extends 1 Space in both directions away from the portion directly in front of the Starting Territory. This is intended to prevent possible issues caused by odd placement.
 ## Beginning of the Game
-If at least 1 Player is using The Party as their Battalion, after a Player places their Territory, that Player's Opponent may select exactly 2 of that Player's non-Titan non-Immutable non-Volatile Pieces to be Volatile; Volatility is explained above. In Party Mode, each Player would have Volatile Pieces selected by the Opponent Targeting them.
+If at least 1 Player is using The Party as their Battalion, after a Player places their Territory, that Player's Opponent must select exactly 2 of that Player's non-Titan non-Immutable non-Volatile Pieces to be Volatile if possible; Volatility is explained above. In Party Mode, each Player would have Volatile Pieces selected by the Opponent Targeting them.
 ## Future Possibilities
 * changing the Starting Territory and the Whip
 * making Volatile Pieces immune to Capture, at least for 1 Turn after switching sides
