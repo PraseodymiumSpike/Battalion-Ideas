@@ -36,7 +36,7 @@ No Supporters directly interact with Haunted, Hexes, or _wéiqí_-style Capture 
 ### Chairman
 This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 
-If an Enemy Supporter Moves to a Space adjacent to a Chairman while it is not Imprisoned, it becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If a Friendly Supporter Moves to a Space adjacent to it while it is Imprisoned, it stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter. Only Supporters' own movements trigger these effects; Any Supporters switching sides or being created do not trigger them.
+If an Enemy Supporter Moves to a Space adjacent to a Chairman while it is not Imprisoned, that Chairman becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If a Friendly Supporter Moves to a Space adjacent to a Chairman while it is Imprisoned, it stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter. Only Supporters' own movements trigger these effects; Any Supporters switching sides or being created do not trigger them.
 | | | |
 |-|-|-|
 |s|s|s|
