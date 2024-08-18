@@ -36,7 +36,7 @@ No Supporters directly interact with Haunted, Hexes, or _wéiqí_-style Capture 
 ### Chairman
 This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 
-If an Enemy Supporter Moves to a Space adjacent to a Chairman while it is not Imprisoned, that Chairman becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If a Friendly Supporter Moves to a Space adjacent to a Chairman while it is Imprisoned, it stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter. Only Supporters' own movements trigger these effects; Any Supporters switching sides or being created do not trigger them.
+If an Enemy Supporter Moves to a Space adjacent to a Chairman while that Chairman is not Imprisoned, that Chairman becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If a Friendly Supporter Moves to a Space adjacent to a Chairman while it is Imprisoned, it stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter. Only Supporters' own movements trigger these effects; Any Supporters switching sides or being created do not trigger them.
 | | | |
 |-|-|-|
 |s|s|s|
@@ -44,7 +44,7 @@ If an Enemy Supporter Moves to a Space adjacent to a Chairman while it is not Im
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"
 ### Whip
-The Whip may Move without Capturing 1 Square along Queen Lines. It is immune to being Captured. It also begins the game as a Volatile Piece. When Any Whip switches sides, the Player who gained Control of it from that may if possible select 1 non-Immutable non-Titan non-Volatile Piece from those Controlled by the same Player who was Controlling the Whip before it switched sides, and the selected Piece becomes Volatile. Note that as it is selected to be Volatile during Plaacement but is instead already Volatile, it does not leave a Supporter behind when it moves for the first time.
+The Whip may Move without Capturing 1 Square along Queen Lines. It is immune to being Captured. It also begins the game as a Volatile Piece. When Any Whip switches sides, the Player who gained Control of it from that may if possible select 1 non-Immutable non-Titan non-Volatile Piece from those Controlled by the same Player who was Controlling the Whip before it switched sides, and the selected Piece becomes Volatile. Note that as it is selected to be Volatile during Placement but is instead already Volatile, it does not leave a Supporter behind when it moves for the first time.
 | | | |
 |-|-|-|
 |m|m|m|
