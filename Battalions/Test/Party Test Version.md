@@ -1,6 +1,6 @@
 # The Party
 ## Preface
-This is just a test version of the rules. The current normal version is linked in the Discord Server.
+This is just a test version of the rules. The current normal version is [here](https://github.com/PraseodymiumSpike/Battalion-Ideas/blob/main/Battalions/The%20Party.md).
 ## Volatile Pieces
 This Battalion has a mechanic under which some Friendly or Enemy Pieces can be Volatile. Pieces are chosen during Placement to be Volatile; this is explained below. Volatility is an additional property a Friendly or Enemy Piece has in addition to being of the Piece Type that it is. For example, an Eagle that's Volatile is still an Eagle.
 
