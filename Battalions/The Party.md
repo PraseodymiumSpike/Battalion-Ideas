@@ -32,11 +32,11 @@ The Supporter and its mechanics are be described here. Some of the rules surroun
 #### Interaction with All Other Volatile Pieces
 If a Supporter Moves to a Space adjacent to an Enemy Volatile Piece, that Enemy Volatile Piece switches sides to match the Supporter that moved adjacent to it. Only Supporters' own movements trigger this; Any Supporters switching sides or being created do not trigger this. Note that as mentioned above, all Supporters are always Volatile.
 #### Interaction with Haunted and Cultist Hexes
-No Supporters directly interact with Haunted, Hexes, or _wéiqí_-style Capture at all. A Haunted or Hex may be placed on a Space already containing Any Supporter. Any Supporter and Any Haunted or Hex may share a Space regardless of if they are Friendly to each other; for example, this may occur when a Haunted or Hex is placed on a Space already containing a Supporter or if a Supporter Moves to—or is Dropped as a Reinforcement on—a Space already containing a Haunted or Hex. All Supporters are immune to Capture by loss of Liberties. They do not count as part of Groups and do not count as filling any Player's Liberties. Any Haunted or Hex sharing a Space with Any Supporter generally counts as part of a Group and may count as filling a Liberty.
+No Supporters directly interact with Haunted, Hexes, or _wéiqí_-style Capture at all. A Haunted or Hex may be placed on a Space already containing Any Supporter. Any Supporter and Any Haunted or Hex may share a Space regardless of if they are Friendly to each other; for example, this may occur when a Haunted or Hex is placed on a Space already containing a Supporter or if a Supporter Moves to—or is created on—a Space already containing a Haunted or Hex. All Supporters are immune to Capture by loss of Liberties. They do not count as part of Groups and do not count as filling any Player's Liberties. Any Haunted or Hex sharing a Space with Any Supporter generally counts as part of a Group and may count as filling a Liberty.
 ### Chairman
 This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 
-If an Enemy Supporter Moves to a Space adjacent to a Chairman while that Chairman is not Imprisoned, that Chairman becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If a Friendly Supporter Moves to a Space adjacent to a Chairman while it is Imprisoned, it stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter. Only Supporters' own movements trigger these effects; Any Supporters switching sides or being created do not trigger them.
+If a Supporter Moves to a Space adjacent to an Enemy Chairman while that Chairman is not Imprisoned, that Chairman becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If a Supporter Moves to a Space adjacent to a Friendly Chairman while it is Imprisoned, it stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter. Only Supporters' own movements trigger these effects; Any Supporters switching sides or being created do not trigger them.
 | | | |
 |-|-|-|
 |s|s|s|
@@ -110,6 +110,6 @@ If at least 1 Player is using The Party as their Battalion, after a Player place
 * changing the Starting Territory and the Whip
 * making Volatile Pieces immune to Capture, at least for 1 Turn after switching sides
 * changing how Volatile Pieces are chosen
-* re-adding Four Winds special interaction: If a Turncoat or Supporter is on the Xiang Dynasty side of a River, it does not switch sides from an Enemy Supporter landing diagonally Adjacent to it. The Square the Supporter lands on would need to be orthogonally Adjacent for the effect to occur.
+* re-adding Four Winds special interaction: If a Volatile Piece or Supporter is on the Xiang Dynasty side of a River, it does not switch sides from an Enemy Supporter landing diagonally Adjacent to it. The Square the Supporter lands on would need to be orthogonally Adjacent for the effect to occur.
 * removing Imprisonment
 * strengthening the Chairman
