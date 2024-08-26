@@ -43,30 +43,21 @@ This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 |s|C|s|
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"
-### Lawyer
-The Lawyer may Move without Capturing 1 Square along Queen Lines. If a Lawyer is within 1 of an Enemy non-Titan non-Immutable non-Accused Piece, it can make that of those Pieces Accused as a Turn.
+### Agent
+The Agent may Move without Capturing 1 Square along Queen Lines. If an Agent is within 1 of an Enemy non-Titan non-Immutable non-Accused Piece, it can make that of those Pieces Accused as a Turn.
 | | | |
 |-|-|-|
 |m|m|m|
-|m|L|m|
+|m|A|m|
 |m|m|m|
 * could Move to Spaces labeled "m"
 ### Paramilitant
-The Paramilitant is a Pawn-class Piece. On each turn, it may either Move without Capturing 1 Space Forwards along Rook Lines or Capture 1 Space Forwards along Bishop Lines. It can Capture _en passant_ as if it were a Medieval Pawn. It must Promote to Agent if it reaches its Opponent's Back Rank.
+The Paramilitant may Move or Capture 1 Square Forwards along Bishop Lines. It must Promote to Minister if it reaches its Opponent's Back Rank.
 | | | |
 |-|-|-|
-|c|m|c|
+|s| |s|
 | |P| |
-* could Move to Space labeled "m"
-* could Capture to Space labeled "c"
-### Agent
-The Agent Moves or Captures an unlimited number of Spaces along Queen Lines.
-| | | |
-|-|-|-|
-|r|r|r|
-|r|A|r|
-|r|r|r|
-* could slide in directions of Spaces labeled "r"
+* could Move or Capture to Spaces labeled "s"
 ### Minister
 The Minister Moves or Captures an unlimited number of Spaces along Rook Lines.
 | | | |
@@ -100,7 +91,7 @@ The Investigator Leaps or Captures to Knight Squares.
 |-|-|-|-|-|-|-|-|-|-|
 |x|P|P|P|P|P|P|P|P|x|
 |x| | |I|S|S|I| | |x|
-|x| |M|S|L|C|S|M| |x|
+|x| |M|S|A|C|S|M| |x|
 |x|x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
 If at least 1 Player is using The Party as their Battalion, after a Player places their Territory, that Player's Opponent must select exactly 2 of that Player's non-Titan non-Immutable non-Accused Pieces to be Accused if possible; the effect of being Accused is explained above. In Party Mode, each Player would have Accused Pieces selected by the Opponent Targeting them.
