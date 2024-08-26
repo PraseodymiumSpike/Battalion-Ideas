@@ -44,7 +44,7 @@ This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"
 ### Whip
-The Whip may Move without Capturing 1 Square along Queen Lines. It is immune to being Captured. When Any Whip switches sides, the Player who gained Control of it from that switch may if possible select 1 non-Immutable non-Titan non-Volatile non-Whip Piece from those Controlled by the same Player who was Controlling the Whip before it switched sides, and the selected Piece becomes Volatile. Note that as it is selected to be Volatile during Placement but is instead already Volatile, it does not leave a Supporter behind when it moves for the first time.
+The Whip may Move without Capturing 1 Square along Queen Lines. It is immune to being Captured. When Any Whip switches sides, the Player who gained Control of it from that switch may if possible select 1 non-Immutable non-Titan non-Volatile non-Whip Piece from those Controlled by the same Player who was Controlling the Whip before it switched sides, and the selected Piece becomes Volatile.
 | | | |
 |-|-|-|
 |m|m|m|
