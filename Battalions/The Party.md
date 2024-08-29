@@ -4,13 +4,15 @@ This Battalion is a work in progress. It is based on the video game _Ataxx_ by L
 
 This shouldn't be the final page for this Battalion, either. This is just temporary. Roland will hopefully make a document for it if this idea goes anywhere.
 ## Accused Pieces
-This Battalion has a mechanic under which some Friendly or Enemy Pieces can be Accussed. Pieces are chosen during Placement to be Accused; this is explained below. Being Accused is an additional property a Friendly or Enemy Piece has in addition to being of the Piece Type that it is. For example, an Eagle that's Accussed is still an Eagle.
+This Battalion has a mechanic under which some Friendly or Enemy Pieces can be Accussed. Pieces are chosen during Placement to be Accused; this is explained below. Being Accused is an additional property a Friendly or Enemy Piece has in addition to being of the Piece Type that it is. For example, an Eagle that's Accused is still an Eagle.
 
 All Accused Pieces have a special interaction with the Supporter; this interaction is explained below as well. All Accused Pieces remain Accused if they Promote, Demote, switch sides, are Captured and go to Hand, or do anything else as long as that thing doesn't result in their becoming Immutable or their becoming a Titan. If it does result in their becoming Immutable or a Titan, they no longer remain Accused.
 
-When an Accused Piece changes its position such that the Space that it left is either empty or contains no Pieces other than Haunted or Cultist Hexes, it creates a Supporter on the Space that it just left.
+When an Accused Piece changes its position such that the Space that it left is either empty or contains no Pieces other than Haunted or Cultist Hexes, it creates a Supporter on the Space that it just left.<!--maybe remove?-->
 
-If an Accused Piece Moves to a Space adjacent to an Enemy Supporter, that Supporter switches sides to match the Accused Piece that Moved. Only Accused Pieces' own movements trigger this effect; Any Accused Pieces moved by other means such as being a Medieval Rook participating in Castling do not trigger it.
+If an Accused Piece Moves to a Space adjacent to an Enemy Supporter, that Supporter switches sides to match the Accused Piece that Moved. Only Accused Pieces' own movements trigger this effect; Any Accused Pieces moved by other means such as being a Medieval Rook participating in Castling do not trigger it.<!--maybe remove?-->
+
+If an Accused Piece Moves to a Space adjacent to an Enemy Accused Piece while the Accused Piece is not Imprisoned, the Enemy Accused Piece becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If an Accused Piece Moves to a Space adjacent to a Friendly Accused Piece while it is Imprisoned, the other Accused Piece stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter or Accused Piece. Only Accused Pieces' own movements trigger this effect; Any Accused Pieces moved by other means do not trigger it.<!--maybe remove?-->
 ## Pieces
 ### Supporter
 The Supporter and its mechanics are be described here. Some of the rules surrounding the Supporter are listed below. Note that in some ways, the Supporter acts like a property of a Square on the Board instead of like an actual Piece.
@@ -46,7 +48,7 @@ This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"
 ### Agent
-The Agent may Move without Capturing 1 Square along Queen Lines. If an Agent is within 1 of an Enemy non-Titan non-Immutable non-Accused Piece, it can make that of those Pieces Accused as a Turn.
+The Agent may Move without Capturing 1 Square along Queen Lines. If an Agent is within 1 of an Enemy non-Titan non-Immutable non-Accused Piece, it can, as a Turn, Accuse all Enemy non-Titan non-Immutable non-Accused Pieces within 1 of it. Of course, it may not use this ability when Imprisoned.
 | | | |
 |-|-|-|
 |m|m|m|
@@ -89,15 +91,18 @@ The Investigator Leaps or Captures to Knight Squares.
 | |j| |j| |
 * could Leap or Capture by Leaping to Spaces labeled "j"
 ## Starting Territory
-| |^|^|^|^|^|^|^|^| |
-|-|-|-|-|-|-|-|-|-|-|
-|x| | | | | | | | |x|
-|x|P|P|P|P|P|P|P|P|x|
-|x|I| |A|S|S|C| |I|x|
-|x| |M|S| | |S|M| |x|
-|x|x|x|x|x|x|x|x|x|x|
+|^|^|^|^|^|^|^|^|
+|-|-|-|-|-|-|-|-|
+|x| | | | | | |x|
+|x|P|P|P|P|P|P|x|
+|x| |A|S|S|C| |x|
+|x|M|S|I|I|S|M|x|
+|x|x|x|x|x|x|x|x|
+
+As can be seen above, the Starting Territory must be placed so that the Battlefield extends 1 Space in both directions away from the portion directly in front of the Starting Territory. This is intended to prevent possible issues caused by odd placement.
 ## Beginning of the Game
 If at least 1 Player is using The Party as their Battalion, after a Player places their Territory, that Player's Opponent must select exactly 2 of that Player's non-Titan non-Immutable non-Accused Pieces to be Accused if possible; the effect of being Accused is explained above. In Party Mode, each Player would have Accused Pieces selected by the Opponent Targeting them.
 ## Future Possibilities
 * changing the Starting Territory and the Agent
 * changing Piece names
+* making Accused Pieces not function as Supporters.
