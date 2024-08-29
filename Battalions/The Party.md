@@ -105,4 +105,4 @@ If at least 1 Player is using The Party as their Battalion, after a Player place
 ## Future Possibilities
 * changing the Starting Territory and the Agent
 * changing Piece names
-* making Accused Pieces not function as Supporters.
+* making Accused Pieces not function as Supporters
