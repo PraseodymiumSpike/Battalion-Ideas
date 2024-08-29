@@ -8,7 +8,9 @@ This Battalion has a mechanic under which some Friendly or Enemy Pieces can be A
 
 All Accused Pieces have a special interaction with the Supporter; this interaction is explained below as well. All Accused Pieces remain Accused if they Promote, Demote, switch sides, are Captured and go to Hand, or do anything else as long as that thing doesn't result in their becoming Immutable or their becoming a Titan. If it does result in their becoming Immutable or a Titan, they no longer remain Accused.
 
-For each Piece that is selected to be Accused during Placement, the first time in the game that it changes its position such that the Space that it left is either empty or contains no Pieces other than Haunted or Cultist Hexes, it creates a Supporter on the Space that it just left.
+When an Accused Piece changes its position such that the Space that it left is either empty or contains no Pieces other than Haunted or Cultist Hexes, it creates a Supporter on the Space that it just left.
+
+If an Accused Piece Moves to a Space adjacent to an Enemy Supporter, that Supporter switches sides to match the Accused Piece that Moved. Only Accused Pieces' own movements trigger this effect; Any Accused Pieces moved by other means such as being a Medieval Rook participating in Castling do not trigger it.
 ## Pieces
 ### Supporter
 The Supporter and its mechanics are be described here. Some of the rules surrounding the Supporter are listed below. Note that in some ways, the Supporter acts like a property of a Square on the Board instead of like an actual Piece.
@@ -30,9 +32,9 @@ The Supporter and its mechanics are be described here. Some of the rules surroun
 2. If Any Piece other that's neither a Haunted nor a Hex lands on the same Space as Any Supporter, that Supporter Captures itself. This is the only way Any Supporter may be Captured.
 3. If Any Supporter moves to a Space adjacent to the Space it was on previously, it creates a new Supporter on the Space it left, and the new Supporter is friendly to the Supporter that moved.
 #### Interaction with Enemy Supporters
-If a Supporter Moves to a Space adjacent to an Enemy Supporter, that Supporter switches sides to match the Supporter that Moved. Only Supporters' own movements trigger these effects; Supporters switching sides or being created do not trigger them.
+If a Supporter Moves to a Space adjacent to an Enemy Supporter, that Supporter switches sides to match the Supporter that Moved. Only Supporters' own movements trigger this effect; Any Supporters switching sides or being created do not trigger them.
 #### Imprisonment
-If a Supporter Moves to a Space adjacent to an Enemy Accused Piece while the Accused Piece is not Imprisoned, that Accused Piece becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If a Supporter Moves to a Space adjacent to a Friendly Accused Piece while it is Imprisoned, it stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter. Only Supporters' own movements trigger these effects; Any Supporters switching sides or being created do not trigger them.
+If a Supporter Moves to a Space adjacent to an Enemy Accused Piece while the Accused Piece is not Imprisoned, that Accused Piece becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If a Supporter Moves to a Space adjacent to a Friendly Accused Piece while it is Imprisoned, it stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter. Only Supporters' own movements trigger this effect; Any Supporters switching sides or being created do not trigger them.
 #### Interaction with Haunted and Cultist Hexes
 No Supporters directly interact with Haunted, Hexes, or _wéiqí_-style Capture at all. A Haunted or Hex may be placed on a Space already containing Any Supporter. Any Supporter and Any Haunted or Hex may share a Space regardless of if they are Friendly to each other; for example, this may occur when a Haunted or Hex is placed on a Space already containing a Supporter or if a Supporter Moves to—or is created on—a Space already containing a Haunted or Hex. All Supporters are immune to Capture by loss of Liberties. They do not count as part of Groups and do not count as filling any Player's Liberties. Any Haunted or Hex sharing a Space with Any Supporter generally counts as part of a Group and may count as filling a Liberty.
 ### Chairman
@@ -89,13 +91,13 @@ The Investigator Leaps or Captures to Knight Squares.
 ## Starting Territory
 | |^|^|^|^|^|^|^|^| |
 |-|-|-|-|-|-|-|-|-|-|
+|x| | | | | | | | |x|
 |x|P|P|P|P|P|P|P|P|x|
-|x| | |I|S|S|I| | |x|
-|x| |M|S|A|C|S|M| |x|
+|x|I| |A|S|S|C| |I|x|
+|x| |M|S| | |S|M| |x|
 |x|x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
 If at least 1 Player is using The Party as their Battalion, after a Player places their Territory, that Player's Opponent must select exactly 2 of that Player's non-Titan non-Immutable non-Accused Pieces to be Accused if possible; the effect of being Accused is explained above. In Party Mode, each Player would have Accused Pieces selected by the Opponent Targeting them.
 ## Future Possibilities
-* changing the Starting Territory and the Lawyer
-* changing how Accused Pieces are chosen
-* re-adding Four Winds special interaction: If an Accused Piece or Supporter is on the Xiang Dynasty side of a River, it does not switch sides from an Enemy Supporter landing diagonally Adjacent to it. The Square the Supporter lands on would need to be orthogonally Adjacent for the effect to occur.
+* changing the Starting Territory and the Agent
+* changing Piece names
