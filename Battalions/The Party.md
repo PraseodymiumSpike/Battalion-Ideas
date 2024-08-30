@@ -97,6 +97,4 @@ As can be seen above, the Starting Territory must be placed so that the Battlefi
 ## Beginning of the Game
 If at least 1 Player is using The Party as their Battalion, after a Player places their Territory, that Player's Opponent must select exactly 2 of that Player's non-Titan non-Immutable non-Accused Pieces to be Accused if possible; the effect of being Accused is explained above. In Party Mode, each Player would have Accused Pieces selected by the Opponent Targeting them.
 ## Future Possibilities
-* changing the Starting Territory and the Agent
-* changing Piece names
-* making Accused Pieces not function as Supporters
+* remove Accused Pieces and instead have a Piece that can only act when a Player Controls a plurality of Supporters on the board
