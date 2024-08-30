@@ -12,7 +12,7 @@ All Accused Pieces have a special interaction with the Supporter; this interacti
 The Supporter and its mechanics are be described here. Some of the rules surrounding the Supporter are listed below. Note that in some ways, the Supporter acts like a property of a Square on the Board instead of like an actual Piece.
 #### Basic Information
 1. The Supporter may Move but not Capture to another Space within 2 of the Space it's on, and it cannot move to a Space occupied by another non-Haunted non–Cultist-Hex Piece. It is not impeded by Any Pieces in the way. If there is a Haunted or Hex on the Space a Supporter moves to, this does not result in the Haunted or Hex Capturing itself; they share that Space.
-2. Supporters don't count as Pieces for determining groups for _wéiqí_-style Capture.
+2. Supporters don't count as Pieces for determining groups for _w&#233;iq&#237;_-style Capture.
 
 | | | | | |
 |-|-|-|-|-|
@@ -32,9 +32,7 @@ If a Supporter Moves to a Space adjacent to an Enemy Supporter, that Supporter s
 #### Imprisonment
 If a Supporter Moves to a Space adjacent to an Enemy Accused Piece while the Accused Piece is not Imprisoned, that Accused Piece becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If a Supporter Moves to a Space adjacent to a Friendly Accused Piece while it is Imprisoned, it stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter. Only Supporters' own movements trigger this effect; Any Supporters switching sides or being created do not trigger them.
 #### Interaction with Haunted and Cultist Hexes
-No Supporters directly interact with Haunted, Hexes, or _w
-&#00e9;
-iqí_-style Capture at all. A Haunted or Hex may be placed on a Space already containing Any Supporter. Any Supporter and Any Haunted or Hex may share a Space regardless of if they are Friendly to each other; for example, this may occur when a Haunted or Hex is placed on a Space already containing a Supporter or if a Supporter Moves to—or is created on—a Space already containing a Haunted or Hex. All Supporters are immune to Capture by loss of Liberties. They do not count as part of Groups and do not count as filling any Player's Liberties. Any Haunted or Hex sharing a Space with Any Supporter generally counts as part of a Group and may count as filling a Liberty.
+No Supporters directly interact with Haunted, Hexes, or _w&#233;iq&#237;_-style Capture at all. A Haunted or Hex may be placed on a Space already containing Any Supporter. Any Supporter and Any Haunted or Hex may share a Space regardless of if they are Friendly to each other; for example, this may occur when a Haunted or Hex is placed on a Space already containing a Supporter or if a Supporter Moves to—or is created on—a Space already containing a Haunted or Hex. All Supporters are immune to Capture by loss of Liberties. They do not count as part of Groups and do not count as filling any Player's Liberties. Any Haunted or Hex sharing a Space with Any Supporter generally counts as part of a Group and may count as filling a Liberty.
 ### Chairman
 This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 | | | |
