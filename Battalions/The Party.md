@@ -7,12 +7,6 @@ This shouldn't be the final page for this Battalion, either. This is just tempor
 This Battalion has a mechanic under which some Friendly or Enemy Pieces can be Accussed. Pieces are chosen during Placement to be Accused; this is explained below. Being Accused is an additional property a Friendly or Enemy Piece has in addition to being of the Piece Type that it is. For example, an Eagle that's Accused is still an Eagle.
 
 All Accused Pieces have a special interaction with the Supporter; this interaction is explained below as well. All Accused Pieces remain Accused if they Promote, Demote, switch sides, are Captured and go to Hand, or do anything else as long as that thing doesn't result in their becoming Immutable or their becoming a Titan. If it does result in their becoming Immutable or a Titan, they no longer remain Accused.
-
-When an Accused Piece changes its position such that the Space that it left is either empty or contains no Pieces other than Haunted or Cultist Hexes, it creates a Supporter on the Space that it just left.<!--maybe remove?-->
-
-If an Accused Piece Moves to a Space adjacent to an Enemy Supporter, that Supporter switches sides to match the Accused Piece that Moved. Only Accused Pieces' own movements trigger this effect; Any Accused Pieces moved by other means such as being a Medieval Rook participating in Castling do not trigger it.<!--maybe remove?-->
-
-If an Accused Piece Moves to a Space adjacent to an Enemy Accused Piece while the Accused Piece is not Imprisoned, the Enemy Accused Piece becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If an Accused Piece Moves to a Space adjacent to a Friendly Accused Piece while it is Imprisoned, the other Accused Piece stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter or Accused Piece. Only Accused Pieces' own movements trigger this effect; Any Accused Pieces moved by other means do not trigger it.<!--maybe remove?-->
 ## Pieces
 ### Supporter
 The Supporter and its mechanics are be described here. Some of the rules surrounding the Supporter are listed below. Note that in some ways, the Supporter acts like a property of a Square on the Board instead of like an actual Piece.
@@ -38,7 +32,9 @@ If a Supporter Moves to a Space adjacent to an Enemy Supporter, that Supporter s
 #### Imprisonment
 If a Supporter Moves to a Space adjacent to an Enemy Accused Piece while the Accused Piece is not Imprisoned, that Accused Piece becomes Imprisoned, and while Imprisoned, it cannot Move, Capture, give Check, or use any active ability given to it any mechanic. If a Supporter Moves to a Space adjacent to a Friendly Accused Piece while it is Imprisoned, it stops being Imprisoned, though it could become Imprisoned again through the action of an Enemy Supporter. Only Supporters' own movements trigger this effect; Any Supporters switching sides or being created do not trigger them.
 #### Interaction with Haunted and Cultist Hexes
-No Supporters directly interact with Haunted, Hexes, or _wéiqí_-style Capture at all. A Haunted or Hex may be placed on a Space already containing Any Supporter. Any Supporter and Any Haunted or Hex may share a Space regardless of if they are Friendly to each other; for example, this may occur when a Haunted or Hex is placed on a Space already containing a Supporter or if a Supporter Moves to—or is created on—a Space already containing a Haunted or Hex. All Supporters are immune to Capture by loss of Liberties. They do not count as part of Groups and do not count as filling any Player's Liberties. Any Haunted or Hex sharing a Space with Any Supporter generally counts as part of a Group and may count as filling a Liberty.
+No Supporters directly interact with Haunted, Hexes, or _w
+&#00e9;
+iqí_-style Capture at all. A Haunted or Hex may be placed on a Space already containing Any Supporter. Any Supporter and Any Haunted or Hex may share a Space regardless of if they are Friendly to each other; for example, this may occur when a Haunted or Hex is placed on a Space already containing a Supporter or if a Supporter Moves to—or is created on—a Space already containing a Haunted or Hex. All Supporters are immune to Capture by loss of Liberties. They do not count as part of Groups and do not count as filling any Player's Liberties. Any Haunted or Hex sharing a Space with Any Supporter generally counts as part of a Group and may count as filling a Liberty.
 ### Chairman
 This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 | | | |
