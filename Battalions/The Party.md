@@ -10,7 +10,7 @@ The Supporter and its mechanics are be described here. Some of the rules surroun
 1. The Supporter may Move but not Capture to another Space within 2 of the Space it's on, and it cannot move to a Space occupied by another non-Haunted non–Cultist-Hex Piece. It is not impeded by Any Pieces in the way. If there is a Haunted or Hex on the Space a Supporter moves to, this does not result in the Haunted or Hex Capturing itself; they share that Space.
 2. Supporters don't count as Pieces for determining groups for _w&#233;iq&#237;_-style Capture.
 
-| | | | | |
+||||||
 |-|-|-|-|-|
 |t|t|t|t|t|
 |t|m|m|m|t|
@@ -29,33 +29,33 @@ If a Supporter Moves to a Space adjacent to an Enemy Supporter, that Supporter s
 No Supporters directly interact with Haunted, Hexes, or _w&#233;iq&#237;_-style Capture at all. A Haunted or Hex may be placed on a Space already containing Any Supporter. Any Supporter and Any Haunted or Hex may share a Space regardless of if they are Friendly to each other; for example, this may occur when a Haunted or Hex is placed on a Space already containing a Supporter or if a Supporter Moves to&#x2014;or is created on&#x2014;a Space already containing a Haunted or Hex. All Supporters are immune to Capture by loss of Liberties. They do not count as part of Groups and do not count as filling any Player's Liberties. Any Haunted or Hex sharing a Space with Any Supporter generally counts as part of a Group and may count as filling a Liberty.
 ### Chairman
 This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
-| | | |
+||||
 |-|-|-|
 |s|s|s|
 |s|K|s|
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"
 ### Chancellor
-The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines or Leaps to Knight Squares to Move or Capture. When the Player Controlling it does not Control more Supporters on the Board than their Opponent&#x2014;or, in Party Mode, their Target&#x2014;it loses the ability to Capture indicated in the previous sentence.
-| | | | | |
+The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines or Leaps to Knight Squares to Move or Capture. When the Player Controlling it does not Control more Supporters on the Board than their Opponent&#x2014;or, in Party Mode, their Target&#x2014;it loses the ability to Capture indicated in the previous sentence. If a Chancellor is Captured while there are Friendly Deputies on the Board, 1 of the Friendly Deputies Promotes to Chancellor, and the rest Promote to Paramilitant; the Player who was Controlling the Chancellor chooses which Deputy Promotes to Chancellor. 
+||||||
 |-|-|-|-|-|
-| |y|&#x2191;|y| |
-|y| |x| |y|
+||y|&#x2191;|y||
+|y||x||y|
 |&#x2190;|x|C|x|&#x2192;|
-|y| |x| |y|
-| |y|&#x2193;|y| |
+|y||x||y|
+||y|&#x2193;|y||
 * could slide in directions of Spaces labeled "x", only able to Capture under certain circumstances
 * could Leap to Spaces labeled "y", only able to Capture under certain circumstances
 ### Paramilitant
 The Paramilitant Moves or Captures 1 Square Forwards or Sideways along Rook Lines. It must Promote to Agent if it reaches its Opponent's Back Rank.
-| | | |
+||||
 |-|-|-|
-| |s| |
+||s||
 |s|P|s|
 * could Move or Capture to Spaces labeled "s"
 ### Agent
 The Agent Moves or Captures along Queen Lines but is not blocked by intervening Pieces; instead, it is blocked by empty space. It may only go to a Space if there are no intervening Spaces, or all intervening Spaces are occupied by a Piece that blocks movement. It is still blocked by the edge of the Board.
-| | | |
+||||
 |-|-|-|
 |x|x|x|
 |x|A|x|
@@ -66,32 +66,32 @@ Here, there is an Agent on g1. It may Move to c5, g3, h2, f1, or h1. It may Capt
 ![Untitled](https://github.com/user-attachments/assets/fb0efbbb-aa8d-46a3-81b7-a58e9f95c8e4)
 ### Senator
 The Senator Leaps 2 Spaces along Queen Lines to Move or Capture. This Piece is sometimes called an "alibaba".
-| | | | | |
+||||||
 |-|-|-|-|-|
-|j| |j| |j|
-| | | | | |
-|j| |S| |j|
-| | | | | |
-|j| |j| |j|
+|j||j||j|
+||||||
+|j||S||j|
+||||||
+|j||j||j|
 * could Leap or Capture by Leaping to Spaces labeled "j"
-### Investigator
-The Investigator Leaps to Knight Squares to Move or Capture.
-| | | | | |
+### Deputy
+The Deputy Moves or Captures to Knight Squares by going 1 Space along a Rook Line and then 1 Space along a Bishop Line like a xiangqi horse.
+||||||
 |-|-|-|-|-|
-| |j| |j| |
-|j| | | |j|
-| | |I| | |
-|j| | | |j|
-| |j| |j| |
-* could Leap or Capture by Leaping to Spaces labeled "j"
+||y||y||
+|y||x||y|
+||x|D|x||
+|y||x||y|
+||y||y||
+* could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x"
 ## Starting Territory
 | |^|^|^|^|^|^|^| |
 |-|-|-|-|-|-|-|-|-|
 |x|P| |P| |P| |P|x|
 |x| | | |P| | | |x|
 |x|X| | | | | |Y|x|
-|x| |S| | |S| | |x|
-|x|S| |A|K|C|S| |x|
+|x| |S|D| |S|D| |x|
+|x|S|D|A|K|C|S|D|x|
 |x|x|x|x|x|x|x|x|x|
 
 The "Y" represents a Supporter belonging to the Opponent&#x2014;or, in Party Mode, the Target&#x2014;of the Player whose Territory this is.
