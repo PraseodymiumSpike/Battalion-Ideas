@@ -1,6 +1,6 @@
 # Great Worm
 ## Preface
-This is adapted from an still-untested Ordamirror variant that I made a while ago which can be found [here](https://praseodymiumspike.neocities.org/Snake_in_Ordamirror). However, it is so different from that variant that I think it's reasonable to have it be my "brand-new" Battalion for this event. The idea of having the entire Battalion be a single monstrous creature is taken from Mad Chess.
+This is adapted from an still-untested Ordamirror variant that I made a while ago which can be found [here](https://praseodymiumspike.neocities.org/Snake_in_Ordamirror). However, it is so different from that variant that I think it's reasonable to have it be my "brand-new" Battalion for this event. The idea of having the entire Battalion be a single monstrous creature is taken from Mad Chess, and some Piece abilities are inspired by the Pieces from that game as well.
 ## Pieces
 ### Worm Titan
 Titan, Immutable, Moves and Captures 1 Space along Rook Lines, has properties listed below
@@ -9,7 +9,12 @@ The Devourer: cannot be Captured unless its last movement either did not Capture
 
 The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise, causes the Player Controlling it to lose immediately if it visits a Square it has already been on at least once previously in the game even if this would fulfill a victory condition such as checkmate
 ### Wing
-Moves and Captures an unlimited number of Spaces along Bishop Lines
+Moves and Captures up to 4 Spaces along Bishop Lines or 3 Spaces along Bishop Lines followed by 1 Space in the same general direction along Rook Lines
+
+![Wing](https://github.com/user-attachments/assets/c3793e56-9dd4-4bfb-834e-118d5f447938)
+* could Move or Capture to Spaces labeled "s" without Leaping
+* could Move or Capture to Spaces labeled "x" without Leaping
+* could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
 ### Claw
 Moves but doesn't Capture 1 or 2 Spaces Forward along Rook Lines from any position without jumping, Captures 1 Space Forward along Bishop Lines, promotes to Talon, has properties listed below
 
@@ -17,19 +22,28 @@ En Passant: can be Captured *en passant* as if it were a Medieval Pawn whenever 
 
 Battlefield Movement: can move 1 Space sideways along Rook Lines from or within the Battlefield
 ### Talon
-Moves and Captures to Knight Squares
+Moves and Captures up to 4 Spaces along Rook Line or up to 3 Spaces along Bishop Lines, Moves and Captures 3 Spaces along Rook Lines followed by 1 Space in the same general direction along Bishop Lines, Moves and Captures 2 Spaces along Bishop Lines followed by 1 Space in the same general direction along Rook Lines
+
+![Talon](https://github.com/user-attachments/assets/cf9bb05f-e5e8-4369-aea0-af604f07810b)
+* could Move or Capture to Spaces labeled "s" without Leaping
+* could Move or Capture to Spaces labeled "x" without Leaping
+* could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
 ### Arm
-Moves and Captures an unlimited number of Spaces along Rook Lines
-### Right Leg
-Moves and Captures 1 Space along Rook Lines or 1 Space Forwards and to the right along a Bishop Line, Moves but doesn't Capture exactly 2 Spaces Forward along Queen Lines from any position without jumping
-![image](https://github.com/user-attachments/assets/d6fa975b-b610-40ed-826c-5db2d04714c3)
-### Left Leg
-Moves and Captures 1 Square along Rook Lines or 1 Space Forwards and to the left along a Bishop Line, Moves but doesn't Capture exactly 2 Spaces Forward along Queen Lines from any position without jumping
-![image](https://github.com/user-attachments/assets/50eda18b-594b-40c0-b10c-57aa0d567108)
+Moves and Captures up to 3 Spaces along Rook Lines or 2 Spaces along Rook Lines followed by 1 Space in the same general direction along Bishop Lines
+
+![Arm](https://github.com/user-attachments/assets/b62123aa-2527-419d-b087-f96ea3d16c99)
+* could Move or Capture to Spaces labeled "s" without Leaping
+* could Move or Capture to Spaces labeled "x" without Leaping
+* could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
+### Leg
+Moves without Capturing 1 Space along Queen Lines, Leaps or Captures 2 Spaces Forward along a Rook Line or to the 4 Forward Knight Squares
+
+![Leg](https://github.com/user-attachments/assets/cdd25df6-caff-4bc4-95e7-97a7a3c58e01)
+* could Leap or Capture by Leaping to Spaces labeled "j"
+* could Move without Capturing to Spaces labeled "m"
 ### Flame
-Moves and Captures 1 Space along Bishop Lines, Moves but doesn't Capture 1 Space Backward along a Rook Line
+Moves and Captures 1 Space along Rook Lines
 ## Special Ability
 A Lair is a Square that a Worm Titan starts the game on. When a Player moves their Worm Titan, they can additionally create a Friendly Leg on an empty Square adjacent to a Lair in their Territory. Here, "empty" should be taken to mean a Square on which it would be legal to drop a Friendly Piece from Hand. This ability can only be used if the Player using it didn't use it on any of their last 9 Turns or if they didn't ever use it in the game yet. The Leg is added to the Board immediately after the Worm Titan Moves or Captures. It is the Player creating it's choice whether it is a Right Leg or a Left Leg.
 ## Starting Territory
-![Great Worm Starting Territory](https://github.com/user-attachments/assets/3565e4ca-2a3e-4af8-8787-f8aa95463ad4)
-
+![-Starting Territory drawio](https://github.com/user-attachments/assets/8b7d168a-9582-4344-8ebe-4978eb2844dd)
