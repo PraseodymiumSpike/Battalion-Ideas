@@ -54,7 +54,7 @@ The Paramilitant Moves or Captures 1 Square Forwards or Sideways along Rook Line
 |s|P|s|
 * could Move or Capture to Spaces labeled "s"
 ### Agent
-The Agent Moves or Captures along Queen Lines but is not blocked by intervening Pieces; instead, it is blocked by empty space. It may only go to a Space if there are no intervening Spaces, or all intervening Spaces are occupied by a Piece that blocks movement. It is still blocked by the edge of the Board.
+The Agent Moves or Captures along Queen Lines but is not blocked by intervening Pieces; instead, it is blocked by empty space. It may only go to a Space if there are no intervening Spaces, or all intervening Spaces are occupied by Any Piece that blocks movement. It is still blocked by the edge of the Board.
 ||||
 |-|-|-|
 |x|x|x|
