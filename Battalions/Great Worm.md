@@ -42,6 +42,6 @@ Moves without Capturing 1 Space along Queen Lines, Leaps or Captures 2 Spaces Fo
 * could Leap or Capture by Leaping to Spaces labeled "j"
 * could Move without Capturing to Spaces labeled "m"
 ## Special Ability
-A Lair is a Square that a Worm Titan starts the game on. When a Player moves their Worm Titan, they can additionally create a Friendly Leg on an empty Square adjacent to a Lair in their Territory. Here, "empty" should be taken to mean a Square on which it would be legal to drop a Friendly Piece from Hand. This ability can only be used if the Player using it didn't use it on any of their last 9 Turns or if they didn't ever use it in the game yet. The Leg is added to the Board immediately after the Worm Titan Moves or Captures. It is the Player creating it's choice whether it is a Right Leg or a Left Leg.
+A Lair is a Square that a Worm Titan starts the game on. When a Player moves their Worm Titan, they can additionally create a Friendly Leg on an empty Square adjacent to a Lair in their Territory. Here, "empty" should be taken to mean a Square on which it would be legal to drop a Friendly Piece from Hand. This ability can only be used if the Player using it didn't use it on any of their last 9 Turns or if they didn't ever use it in the game yet. The Leg is added to the Board immediately after the Worm Titan Moves or Captures.
 ## Starting Territory
 ![Starting Territory](https://github.com/user-attachments/assets/c9f06c54-a310-46dc-9529-25bbc4474b08)
