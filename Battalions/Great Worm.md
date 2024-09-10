@@ -3,11 +3,11 @@
 This is adapted from an still-untested Ordamirror variant that I made a while ago which can be found [here](https://praseodymiumspike.neocities.org/Snake_in_Ordamirror). However, it is so different from that variant that I think it's reasonable to have it be my "brand-new" Battalion for this event. The idea of having the entire Battalion be a single monstrous creature is taken from Mad Chess, and some Piece abilities are inspired by the Pieces from that game as well.
 ## Pieces
 ### Worm Titan
-Titan, Immutable, Moves and Captures 1 Space along Rook Lines, has properties listed below
+Titan, Immutable, Moves and Captures up to 3 Spaces along Rook Lines, has properties listed below
 
-The Devourer: cannot be Captured unless its last movement either did not Capture or Captured only Immutable Pieces
+The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise
 
-The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise, causes the Player Controlling it to lose immediately if it visits a Square it has already been on at least once previously in the game even if this would fulfill a victory condition such as checkmate
+The Boundless: causes the Player Controlling it to lose the game immediately if it visits or passes through a Square it has already been on or passed through previously at any point in the game even if this would fulfill a victory condition such as Checkmate
 ### Wing
 Moves and Captures up to 4 Spaces along Bishop Lines or 3 Spaces along Bishop Lines followed by 1 Space in the same general direction along Rook Lines
 
