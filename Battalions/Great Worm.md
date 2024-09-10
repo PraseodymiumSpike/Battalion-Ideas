@@ -16,7 +16,7 @@ Moves and Captures up to 4 Spaces along Bishop Lines or 3 Spaces along Bishop Li
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
 ### Claw
-Moves but doesn't Capture 1 or 2 Spaces Forward along Rook Lines from any position without jumping, Captures 1 Space Forward along Bishop Lines, promotes to Talon, has properties listed below
+Moves but doesn't Capture up to 2 Spaces Forward along a Rook Line without jumping, Captures 1 Space Forward along a Rook Line, promotes to Talon, has properties listed below
 
 En Passant: can be Captured *en passant* as if it were a Medieval Pawn whenever it moves 2 Squares straight Forward, can Capture *en passant* as if it were a Medieval Pawn
 
