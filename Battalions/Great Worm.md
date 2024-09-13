@@ -18,7 +18,7 @@ Moves and Captures up to 4 Spaces along Bishop Lines or 3 Spaces along Bishop Li
 ### Claw
 Moves but doesn't Capture up to 2 Spaces Forward along a Rook Line without jumping, Captures 1 Space Forward along a Rook Line, promotes to Talon, has properties listed below
 
-En Passant: can be Captured *en passant* as if it were a Medieval Pawn whenever it moves 2 Squares straight Forward, can Capture *en passant* as if it were a Medieval Pawn
+En Passant: can be Captured *en passant* as if it were a Medieval Pawn whenever it Moves 2 Squares straight Forward without Capturing
 
 Battlefield Movement: can move 1 Space sideways along Rook Lines from or within the Battlefield
 ### Talon
