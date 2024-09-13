@@ -96,4 +96,4 @@ The Deputy Moves or Captures to Knight Squares by going 1 Space along a Rook Lin
 
 The "Y" represents a Supporter belonging to the Opponent&#x2014;or, in Party Mode, the Target&#x2014;of the Player whose Territory this is.
 ## Beginning of the Game
-If at least 1 Player is using The Party as their Battalion, after a Player places their Territory, that Player's Opponent must select exactly 2 of that Player's non-Titan non-Immutable non-Accused Pieces to be Accused if possible; the effect of being Accused is explained above. In Party Mode, each Player would have Accused Pieces selected by the Opponent Targeting them.
+In the Gamemode "Assassin", A Player using The Party as their Battalion must reveal their Target after Targets are decided.
