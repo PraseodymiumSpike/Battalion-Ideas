@@ -27,6 +27,7 @@ This Piece is a Snare Piece. This Piece may Move or Capture 1 Space along Bishop
 |x|||||||||x|
 |x|R|N|B|K|Q|B|N|R|x|
 |x|x|x|x|x|x|x|x|x|x|
+
 starts with 1 Snare Rook as a Backline Reinforcement
 |letter|piece|
 |-|-|
