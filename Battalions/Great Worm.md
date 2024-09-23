@@ -5,9 +5,13 @@ This is adapted from an still-untested Ordamirror variant that I made a while ag
 ### Worm Titan
 Titan, Immutable, Moves and Captures up to 3 Spaces along Rook Lines, has properties listed below
 
-The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise
-
 The Boundless: causes the Player Controlling it to lose the game immediately if it visits or passes through a Square it has already been on or passed through previously at any point in the game even if this would fulfill a victory condition such as Checkmate
+
+The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise except through its ability "The Contemptuous"
+
+The Contemptuous: begins the game with 10 Contempt, increases its Contempt by 1 each time it takes its mandatory action to a maximum of 10, can spend 10 of its Contempt to Move or Capture outside of its mandatory action as long as that would leave it with a nonnegative amount of Contempt
+
+The Nightmarish: as a turn, can spend 10 of its Contempt to create a Friendly Leg adjacent to a Lair in its Controller's Territory as long as that would leave it with a nonnegative amount of Contempt
 ### Wing
 Moves and Captures up to 4 Spaces along Bishop Lines or 3 Spaces along Bishop Lines followed by 1 Space in the same general direction along Rook Lines
 
@@ -16,7 +20,7 @@ Moves and Captures up to 4 Spaces along Bishop Lines or 3 Spaces along Bishop Li
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
 ### Claw
-Moves but doesn't Capture up to 2 Spaces Forward along a Rook Line without jumping, Captures 1 Space Forward along a Rook Line, promotes to Talon, has properties listed below
+Moves but doesn't Capture up to 2 Spaces Forward along a Rook Line without jumping, Captures 1 Space Forward along Bishop Lines, promotes to Talon, has properties listed below
 
 En Passant: can be Captured *en passant* as if it were a Medieval Pawn whenever it Moves 2 Squares straight Forward without Capturing
 
@@ -36,12 +40,10 @@ Moves and Captures up to 3 Spaces along Rook Lines or 2 Spaces along Rook Lines 
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
 ### Leg
-Moves without Capturing 1 Space along Queen Lines, Leaps or Captures 2 Spaces Forward along a Rook Line or to the 4 Forward Knight Squares
+Moves without Capturing 1 Space along Queen Lines, Leaps or Captures 2 Spaces Forward or Sideways along Rook Lines or to the 4 Forward Knight Squares
 
-![Leg](https://github.com/user-attachments/assets/cdd25df6-caff-4bc4-95e7-97a7a3c58e01)
+![Leg](https://github.com/user-attachments/assets/394042f3-f392-4d94-b214-aa2a96382432)
 * could Leap or Capture by Leaping to Spaces labeled "j"
 * could Move without Capturing to Spaces labeled "m"
-## Special Ability
-A Lair is a Square that a Worm Titan starts the game on. When a Player moves their Worm Titan, they can additionally create a Friendly Leg on an empty Square adjacent to a Lair in their Territory. Here, "empty" should be taken to mean a Square on which it would be legal to drop a Friendly Piece from Hand. This ability can only be used if the Player using it didn't use it on any of their last 9 Turns or if they didn't ever use it in the game yet. The Leg is added to the Board immediately after the Worm Titan Moves or Captures.
 ## Starting Territory
 ![Starting Territory](https://github.com/user-attachments/assets/c9f06c54-a310-46dc-9529-25bbc4474b08)
