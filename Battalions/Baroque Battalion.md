@@ -1,6 +1,6 @@
-# Baroque Battalion (WIP)
+# Baroque Battalion
 ## Preface
-This is essentially a 1-to-1 copy of the army each side has in _Ultima_ by the late Robert Abbott, described on [The Chess Variant Pages](https://www.chessvariants.com/other.dir/ultima.html). Very little on this page is in any way original, so all credit for it should go to Robert Abbott. The Battalion's Name comes from that _Ultima_ is also called '_Baroque Chess_'.
+This is essentially a 1-to-1 copy of the army each side has in _Ultima_ by the late Robert Abbott, described on [The Chess Variant Pages](https://www.chessvariants.com/other.dir/ultima.html). Very little on this page is in any way original, so all credit for it should go to Robert Abbott. The Battalion's Name comes from that _Ultima_ is also called "_Baroque Chess_".
 
 Since this document is pretty technical and pedantic in an attempt to make it compatible with all of the things that can occur in Titan's Battalion, it is highly recommended to be familiar with the rules of Ultima before reading this document.
 ## Extra-Strength Battalions
@@ -44,7 +44,7 @@ This Piece may do 1 of 2 things:
 
 If the latter option is chosen, the Chameleon must Capture at least the Piece it's copying, it must Capture that Piece using that Piece's own abilities, and any other Pieces the Chameleon Captures using the ability it copied must be of the same Piece Type and belong to the same Player as the Piece whose abilities it copied.
 #### Side-Effect Rule
-This rule is not likely to be very important outside of the mirror match, in which case the Chameleon under this rule would act essentially as it does in Ultima, so you can probably skip reading this rule. However, it's here to help with rulings.
+This rule is not likely to be very important outside of the mirror match, in which case this rule should make the Chameleon act essentially as it does in Ultima, so you can probably skip reading this rule. However, it's here to help with rulings.
 
 When a Chameleon acts in either of the 2 ways described above, each Capturable Enemy Piece "_x_" that fulfills the following critera are Captured:
 * "_x_" is not Immutable.
@@ -52,3 +52,19 @@ When a Chameleon acts in either of the 2 ways described above, each Capturable E
 * Pieces of the same Piece Type as "_x_" can Capture Pieces as a non-optional side effect of some action that they can normally take. Withdrawers, Coordinators, and Baroque Pawns would fulfill this criterion. As an additional example, if a *tenjiku sho&#773;gi* Fire Demon were added to Titan's Battalion, it would also fulfill this criterion due to its power to burn Pieces.
 * There is a normal situation in which a Piece of the same Piece Type as "_x_" could take the exact path the Chameleon just took from the Chameleon's starting Space to its ending Space. A path only takes into account the Spaces moved through, the number of times each of those Spaces was moved through, and the order they were moved through. It does not take into account Any Pieces may have been on the path before the Chameleon took the path. Here, a "normal situation" should be taken to be a situation where the Piece is not modified by any outside effects such as being defended by a Relay Piece or being Blessed by an Apostle. However, a Piece Capturing counts as a "normal situation". For example, there is a normal situation in which a Medieval Pawn could make a movement 1 Space along a Bishop Line; this goes for any of the 4 Bishop Lines, even those that are Backward, as a hypothetical Medieval Pawn could belong to an Opponent in a normal situation.
 * In the hypothetical case that the Chameleon belonged to the same Player that it actually belonged to but was of the Piece Type that "_x_" is a member of instead of being a Chameleon, and it as a Piece of the same Piece Type as "_x_" took the same path that the Chameleon actually did, it as a Piece of the same Piece type as "_x_" would in some normal situation Capture "_x_" as a non-optional side effect of taking that path.
+#### Diagram
+There is a diagram [here](https://www.chessvariants.com/other.dir/ultcham.gif).
+## Starting Territory
+||^|^|^|^|^|^|^|^||
+|-|-|-|-|-|-|-|-|-|-|
+|x|||||||||x|
+|x|P|P|P|P|P|P|P|P|x|
+|x|I|L|S|K|W|S|L|C|x|
+|x|x|x|x|x|x|x|x|x|x|
+* K: Baroque Titan
+* W: Withdrawer
+* S: Chameleon
+* L: Long Leaper
+* C: Coordinator
+* I: Immobilizer
+* P: Pawn
