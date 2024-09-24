@@ -22,19 +22,19 @@ This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"
 ### Withdrawer
-This Piece may make a movement without Capturing by Displacement an unlimited number of Spaces along Queen Lines; if there is a Capturable Enemy Piece adjacent to the Space the Withdrawer started such a movement on but adjacent in the exact opposite direction to the direction the Withdrawer went in, that Enemy Piece is Captured. This Capture is not optional. There is a diagram [here](https://www.chessvariants.com/other.dir/ultwith.gif).
+This Piece may make a movement without Capturing by Displacement an unlimited number of Spaces along Queen Lines; if there is a Capturable Enemy Piece adjacent to the Space the Withdrawer started such a movement on but adjacent in the exact opposite direction to the direction the Withdrawer went in, that Enemy Piece is Captured. This Capture is not optional. There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#with).
 ### Coordinator
 This Piece may make a movement without Capturing by Displacement an unlimited number of Spaces along Queen Lines; when a Coordinator makes such a movement, any Capturable Enemy Pieces on Spaces that have 2 Rook Lines extending from them in perpendicular directions that fulfill the criteria listed are Captured. These Captures are not optional. The critera are:
 * 1 of the perpendicular Rook Lines extending from it eventually reaches the destination Space of the Coordinator that just Moved. Pieces in the way should be ignored for the purposes of this criterion.
 * The other of the perpendicular Rook Lines extending from it eventually reaches the Space of a Titan that is Friendly to the Coordinator that just Moved. Pieces in the way should be ignored for the purposes of this criterion.
 
-There is a diagram [here](https://www.chessvariants.com/other.dir/ultcoor.gif).
+There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#coord).
 ### Baroque Pawn
-This Piece may make a movement without Capturing by Displacement an unlimited number of Spaces along Rook Lines; if there is a Capturable Enemy Piece orthogonally adjacent to it when it ends such a movement, and there is a Friendly Piece orthogonally adjacent to that Enemy Piece but adjacent in the exact opposite direction to the direction the Baroque Pawn ended at, the Enemy Piece is Captured. This Capture is not optional. There is a diagram [here](https://www.chessvariants.com/other.dir/ultpinch.gif).
+This Piece may make a movement without Capturing by Displacement an unlimited number of Spaces along Rook Lines; if there is a Capturable Enemy Piece orthogonally adjacent to it when it ends such a movement, and there is a Friendly Piece orthogonally adjacent to that Enemy Piece but adjacent in the exact opposite direction to the direction the Baroque Pawn ended at, the Enemy Piece is Captured. This Capture is not optional. There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#pinch).
 ### Long Leaper
-This Piece may Move without Capturing an unlimited number of Spaces along Queen Lines. It may Capture by jumping over a Capturable Enemy Piece along any Queen Line and landing on the Space directly after the Piece it Captured. It may then continue Capturing in that same way along that same Queen Line in the direction it's already going in. It may not jump over Any Piece without Capturing that Piece. Each Piece it Captures must have a Space it can land on directly after; it may not Capture by Displacement when landing on that Space. There is a diagram [here](https://www.chessvariants.com/other.dir/ultlong.gif).
+This Piece may Move without Capturing an unlimited number of Spaces along Queen Lines. It may Capture by jumping over a Capturable Enemy Piece along any Queen Line and landing on the Space directly after the Piece it Captured. It may then continue Capturing in that same way along that same Queen Line in the direction it's already going in. It may not jump over Any Piece without Capturing that Piece. Each Piece it Captures must have a Space it can land on directly after; it may not Capture by Displacement when landing on that Space. There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#long).
 ### Immobilizer
-This Piece may Move without Capturing along Queen Lines. Any non-Immutable Enemy Piece adjacent to it may not Move, Capture, give Check, or use any other active ability given to it by any mechanic except as described in the following sentence. Any Capturable Enemy Piece adjacent to it that is not Immutable and not a Titan may Capture itself as a turn. There is a diagram [here](https://www.chessvariants.com/other.dir/ultimm.gif).
+This Piece may Move without Capturing along Queen Lines. Any non-Immutable Enemy Piece adjacent to it may not Move, Capture, give Check, or use any other active ability given to it by any mechanic except as described in the following sentence. Any Capturable Enemy Piece adjacent to it that is not Immutable and not a Titan may Capture itself as a turn. There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#imm).
 
 If an Immobilizer in adjacent to an Enemy Chameleon, it may not Move, Capture, give Check, or use any other active ability given to it by any mechanic except as described in the following sentence. It may Capture itself as a turn.
 ### Chameleon
@@ -53,7 +53,7 @@ When a Chameleon acts in either of the 2 ways described above, each Capturable E
 * There is a normal situation in which a Piece of the same Piece Type as "_x_" could take the exact path the Chameleon just took from the Chameleon's starting Space to its ending Space. A path only takes into account the Spaces moved through, the number of times each of those Spaces was moved through, and the order they were moved through. It does not take into account Any Pieces may have been on the path before the Chameleon took the path. Here, a "normal situation" should be taken to be a situation where the Piece is not modified by any outside effects such as being defended by a Relay Piece or being Blessed by an Apostle. However, a Piece Capturing counts as a "normal situation". For example, there is a normal situation in which a Medieval Pawn could make a movement 1 Space along a Bishop Line; this goes for any of the 4 Bishop Lines, even those that are Backward, as a hypothetical Medieval Pawn could belong to an Opponent in a normal situation.
 * In the hypothetical case that the Chameleon belonged to the same Player that it actually belonged to but was of the Piece Type that "_x_" is a member of instead of being a Chameleon, and it as a Piece of the same Piece Type as "_x_" took the same path that the Chameleon actually did, it as a Piece of the same Piece type as "_x_" would in some normal situation Capture "_x_" as a non-optional side effect of taking that path.
 #### Diagram
-There is a diagram [here](https://www.chessvariants.com/other.dir/ultcham.gif).
+There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#cham).
 ## Starting Territory
 ||^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|
@@ -68,3 +68,8 @@ There is a diagram [here](https://www.chessvariants.com/other.dir/ultcham.gif).
 * C: Coordinator
 * I: Immobilizer
 * P: Pawn
+## Potential Version for 2-Player Matches
+In a 2-Player Match, perhaps, it would work if the following changes were made:
+* Baroque Battalion's Starting Territory does not include Chameleons; the Spaces they would start on normally start empty instead.
+* The Player whose Opponent is using Baroque Battalion gets 2 Chameleons as Instant Reinforcements. Instant Reinforcements are exactly like Backline Reinforcements except that they can be placed on the Back Rank as part of Territory Placement.
+* Chameleons are massively simplified. They may only Capture Baroque Battalion Pieces, and they interact with Enemy Baroque Battalion Pieces exactly as Chameleons in Ultima interact with Enemy Pieces. They don't have any other special interactions with Friendly Pieces at all. They are basically just Chameleons from Ultima without the complexity in [the Chameleon section earlier in this document](https://github.com/PraseodymiumSpike/Battalion-Ideas/edit/main/Battalions/Baroque%20Battalion.md#chameleon).
