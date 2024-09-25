@@ -3,14 +3,16 @@
 This is essentially a 1-to-1 copy of the army each side has in _Ultima_ by the late Robert Abbott, described on [The Chess Variant Pages](https://www.chessvariants.com/other.dir/ultima.html). Very little on this page is in any way original, so all credit for it should go to Robert Abbott. The Battalion's Name comes from that _Ultima_ is also called "_Baroque Chess_".
 
 Since this document is pretty technical and pedantic in an attempt to make it compatible with all of the things that can occur in Titan's Battalion, it is highly recommended to be familiar with the rules of Ultima before reading this document.
+
+2 Players playing Perfect Balance together count as 1 Player for all the rules in this document.
 ## Extra-Strength Battalions
 I propose that certain Battalions including this one be categorized as "Extra-Strength Battalions". A Battalion that's the full chu shogi army or the non-rebalanced _Djambi_ army would also be in this category. The rules in the remaining paragraphs in this section would apply to these Battalions.
 
-Extra-Strength Battalions may only be selected in Party Mode when there are more than 2 Players playing. 2 Players playing Perfect Balance together would count as 1 Player for this.
-
-When Players' Targets are chosen, each Player who picks an Extra-Strength Battalion puts 2 cards in the pile instead of 1 and draws 2 cards instread of 1. Both cards that such a Player draws indicate Targets of that Player. Both of those Targets must be defeated for that Player to win. Neither of a Player's Targets can be themselves, and no 2 of a Player's Targets can be the same other Player. If a Player is defeated, and the game doesn't end immediately, they may no longer take any actions in the game, but they can still win the game.
-
-Since 2 Players may have the same Player as their target, a game may have 2 winners.
+Extra-Strength Battalions may only be selected in Party Mode with the Assassin Gamemode or FFA Gamemode when there are more than 2 Players playing.
+### Assassin Gamemode
+When Players' Targets are chosen, each Player who picks an Extra-Strength Battalion puts 2 cards in the pile instead of 1 and draws 2 cards instread of 1. Both cards that such a Player draws indicate Targets of that Player. Both of those Targets must be defeated for that Player to win. Neither of a Player's Targets can be themselves, and if there are more than 2 Players not using Crab Battalion, no 2 of a Player's Targets can be the same other Player. If a Player is defeated, and the game doesn't end immediately, they may no longer take any actions in the game, but they can still win the game. Since 2 Players may have the same Player as their target, a game may have 2 winners.
+### FFA Gamemode
+A Player using an Extra-Strength Battalion would need to defeat 2 other Players to win.
 ## Pieces
 For the purposes of the rules in this section, any Friendly Piece that generally has the ability to be Captured by another Friendly Piece counts as a Capturable Enemy Piece and is counted among "Capturable Enemy Pieces". In addition, any Captures caused by the rules in this section are considered to be caused by the Piece and Player Moving. They are not considered to be a Piece Capturing itself.
 ### Baroque Titan
