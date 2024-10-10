@@ -5,7 +5,7 @@ This is adapted from an still-untested Ordamirror variant that I made a while ag
 ### Worm Titan
 Titan, Immutable, Moves and Captures up to 3 Spaces along Rook Lines, has properties listed below
 
-The Boundless: causes the Player Controlling it to lose the game immediately if it visits or passes through a Square it has already been on or passed through previously at any point in the game even if this would fulfill a victory condition such as Checkmate
+The Boundless: causes the Player Controlling it to lose the game immediately if it visits or passes through a Square it has already been on or passed through previously at any point in the game even if this would fulfill a victory condition such as Checkmate, cannot visit or pass through a Square it has already been on or passed through previously at any point in the game if this would Capture a Titan
 
 The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise except through its ability "The Contemptuous"
 
@@ -13,9 +13,9 @@ The Contemptuous: begins the game with 10 Contempt, increases its Contempt by 1 
 
 The Nightmarish: as a turn, can spend 10 of its Contempt to create a Friendly Leg adjacent to a Lair in its Controller's Territory as long as that would leave it with a nonnegative amount of Contempt
 ### Wing
-Moves and Captures up to 4 Spaces along Bishop Lines or 3 Spaces along Bishop Lines followed by 1 Space in the same general direction along Rook Lines
+Moves and Captures up to 3 Spaces along Bishop Lines or 2 Spaces along Bishop Lines followed by 1 Space in the same general direction along Rook Lines
 
-![Wing](https://github.com/user-attachments/assets/c3793e56-9dd4-4bfb-834e-118d5f447938)
+![Wing](https://github.com/user-attachments/assets/5f9cc01e-2441-4eb2-a25a-4a0bd93cd1f4)
 * could Move or Capture to Spaces labeled "s" without Leaping
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
@@ -33,9 +33,9 @@ Moves and Captures up to 4 Spaces along Rook Lines or up to 3 Spaces along Bisho
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
 ### Arm
-Moves and Captures up to 3 Spaces along Rook Lines or 2 Spaces along Rook Lines followed by 1 Space in the same general direction along Bishop Lines
+Moves and Captures up to 4 Spaces along Rook Lines or 3 Spaces along Rook Lines followed by 1 Space in the same general direction along Bishop Lines
 
-![Arm](https://github.com/user-attachments/assets/b62123aa-2527-419d-b087-f96ea3d16c99)
+![Arm](https://github.com/user-attachments/assets/f9f3414f-76c1-4859-851c-18a8299caf64)
 * could Move or Capture to Spaces labeled "s" without Leaping
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
