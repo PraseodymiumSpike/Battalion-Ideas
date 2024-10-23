@@ -1,6 +1,6 @@
 # The Party
 ## Preface
-This Battalion is a work in progress. It is based on the video game _Ataxx_ by Leland Corporation. The most important Piece from this perspective is the Supporter. This is the Piece Type whose mechanics actually mirror _Ataxx_. I have no idea if this is going to work well as a mechanic or not. We will have to see. The Piece Type names are based on a vague stereotype of a first-world or second-world political party. The ideology is ambiguous, but the party does not shy away from coercion.
+This Battalion is a work in progress. It is based on the video game _Ataxx_ by Leland Corporation. The most important Piece from this perspective is the Supporter. This is the Piece Type whose mechanics actually mirror _Ataxx_. I have no idea if this is going to work well as a mechanic or not. We will have to see. The Piece Type names are based on a vague stereotype of a first-world or second-world political party or a faction within such a party. The ideology is ambiguous, but the party does not shy away from coercion.
 
 This shouldn't be the final page for this Battalion, either. This is just temporary. Roland will hopefully make a document for it if this idea goes anywhere.
 ## Pieces
@@ -36,7 +36,7 @@ This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"
 ### Chancellor
-The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines or Leaps to Knight Squares to Move or Capture. When the Player Controlling it does not Control more Supporters on the Board than their Opponent&#x2014;or, in Party Mode, their Target&#x2014;it loses the ability to Capture indicated in the previous sentence. If a Chancellor is Captured while there are Friendly Deputies on the Board, 1 of the Friendly Deputies Promotes to Chancellor, and the rest Promote to Paramilitant; the Player who was Controlling the Chancellor chooses which Deputy Promotes to Chancellor. 
+The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines or Leaps to Knight Squares to Move or Capture. When the Player Controlling it does not Control strictly more Supporters on the Board than their Opponent&#x2014;or, in Party Mode, the one of their Opponents who Controls the most Supporters&#x2014;it loses the ability to Capture indicated in the previous sentence.
 ||||||
 |-|-|-|-|-|
 ||y|&#x2191;|y||
@@ -46,12 +46,14 @@ The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines
 ||y|&#x2193;|y||
 * could slide in directions of Spaces labeled "x", only able to Capture under certain circumstances
 * could Leap to Spaces labeled "y", only able to Capture under certain circumstances
+#### Capture of a Chancellor
+If a Chancellor is Captured by a Player other than the Player Controlling that Chancellor, the Player who Captured it gains a Chancellor as a Nominated Reinforcement. Nominated Reinforcements may be placed in the Territory of the Player Controlling them as a turn. Outside of Party Mode, they may not be placed when the Player Controlling them is in Check.
 ### Paramilitant
-The Paramilitant Moves or Captures 1 Square Forwards or Sideways along Rook Lines. It must Promote to Agent if it reaches its Opponent's Back Rank.
+The Paramilitant Moves or Captures 1 Square Forwards along Bishop Lines. It must Promote to Agent if it reaches its Opponent's Back Rank.
 ||||
 |-|-|-|
-||s||
-|s|P|s|
+|s||s|
+||P||
 * could Move or Capture to Spaces labeled "s"
 ### Agent
 The Agent Moves or Captures along Queen Lines but is not blocked by intervening Pieces; instead, it is blocked by empty space. It may only go to a Space if there are no intervening Spaces, or all intervening Spaces are occupied by Any Piece that blocks movement. It is still blocked by the edge of the Board.
@@ -87,13 +89,11 @@ The Deputy Moves or Captures to Knight Squares by going 1 Space along a Rook Lin
 ## Starting Territory
 | |^|^|^|^|^|^|^| |
 |-|-|-|-|-|-|-|-|-|
-|x|P| |P| |P| |P|x|
-|x| | | |P| | | |x|
-|x|X| | | | | |Y|x|
+|x|P|P|P|P|P|P|P|x|
 |x| |S|D| |S|D| |x|
 |x|S|D|A|K|C|S|D|x|
 |x|x|x|x|x|x|x|x|x|
 
 The "Y" represents a Supporter belonging to the Opponent&#x2014;or, in Party Mode, the Target&#x2014;of the Player whose Territory this is.
 ## Beginning of the Game
-In the Gamemode "Assassin", A Player using The Party as their Battalion must reveal their Target after Targets are decided.
+If at least 1 Player is using The Party as their Battalion, each Player gets 1 Supporter as a Backline Reinforcement
