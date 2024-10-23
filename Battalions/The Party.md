@@ -93,7 +93,5 @@ The Deputy Moves or Captures to Knight Squares by going 1 Space along a Rook Lin
 |x| |S|D| |S|D| |x|
 |x|S|D|A|K|C|S|D|x|
 |x|x|x|x|x|x|x|x|x|
-
-The "Y" represents a Supporter belonging to the Opponent&#x2014;or, in Party Mode, the Target&#x2014;of the Player whose Territory this is.
 ## Beginning of the Game
 If at least 1 Player is using The Party as their Battalion, each Player gets 1 Supporter as a Backline Reinforcement
