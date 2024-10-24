@@ -7,11 +7,9 @@ Titan, Immutable, Moves and Captures an unlimited number of Spaces along Rook Li
 
 The Boundless: causes the Player Controlling it to lose the game immediately if it visits or passes through a Square it has already been on or passed through previously at any point in the game even if this would fulfill a victory condition such as Checkmate, cannot visit or pass through a Square it has already been on or passed through previously at any point in the game if this would Capture a Titan
 
-The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise except through its ability "The Contemptuous"
+The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise
 
-The Contemptuous: begins the game with 10 Contempt, increases its Contempt by 1 each time it takes its mandatory action to a maximum of 10, can spend 10 of its Contempt to Move or Capture outside of its mandatory action as long as that would leave it with a nonnegative amount of Contempt
-
-The Nightmarish: as a turn, can spend 10 of its Contempt to create a Friendly Leg on a Space adjacent to a Lair in its Controller's Territory as long as that would leave it with a nonnegative amount of Contempt, a Lair being a Space that contained a Worm Titan during Territory Placement
+The Nightmarish: begins the game with 10 Contempt, increases its Contempt by 1 each time it takes its mandatory action to a maximum of 10, can spend 10 of its Contempt as a Turn to create a Friendly Leg on a Space adjacent to a Lair in its Controller's Territory as long as that would leave it with a nonnegative amount of Contempt, a Lair being a Space that contained a Worm Titan during Territory Placement
 ### Arm
 Moves and Captures up to 3 Spaces along Bishop Lines or 2 Spaces along Bishop Lines followed by 1 Space in the same general direction along Rook Lines
 
