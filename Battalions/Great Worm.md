@@ -3,7 +3,7 @@
 This is adapted from an still-untested Ordamirror variant that I made a while ago which can be found [here](https://praseodymiumspike.neocities.org/Snake_in_Ordamirror). However, it is so different from that variant that I think it's reasonable to have it be my "brand-new" Battalion for this event. The idea of having the entire Battalion be a single monstrous creature is taken from Mad Chess, and some Piece abilities are inspired by the Pieces from that game as well.
 ## Pieces
 ### Worm Titan
-Titan, Immutable, Moves and Captures up to 3 Spaces along Rook Lines, has properties listed below
+Titan, Immutable, Moves and Captures an unlimited number of Spaces along Rook Lines, has properties listed below
 
 The Boundless: causes the Player Controlling it to lose the game immediately if it visits or passes through a Square it has already been on or passed through previously at any point in the game even if this would fulfill a victory condition such as Checkmate, cannot visit or pass through a Square it has already been on or passed through previously at any point in the game if this would Capture a Titan
 
@@ -11,11 +11,11 @@ The Looming: must Move or Capture as an additional mandatory action that occurs 
 
 The Contemptuous: begins the game with 10 Contempt, increases its Contempt by 1 each time it takes its mandatory action to a maximum of 10, can spend 10 of its Contempt to Move or Capture outside of its mandatory action as long as that would leave it with a nonnegative amount of Contempt
 
-The Nightmarish: as a turn, can spend 10 of its Contempt to create a Friendly Leg adjacent to a Lair in its Controller's Territory as long as that would leave it with a nonnegative amount of Contempt
-### Wing
+The Nightmarish: as a turn, can spend 10 of its Contempt to create a Friendly Leg on a Space adjacent to a Lair in its Controller's Territory as long as that would leave it with a nonnegative amount of Contempt, a Lair being a Space that contained a Worm Titan during Territory Placement
+### Arm
 Moves and Captures up to 3 Spaces along Bishop Lines or 2 Spaces along Bishop Lines followed by 1 Space in the same general direction along Rook Lines
 
-![Wing](https://github.com/user-attachments/assets/5f9cc01e-2441-4eb2-a25a-4a0bd93cd1f4)
+![Arm](https://github.com/user-attachments/assets/7c04e960-8730-4a3b-b8a9-123f030bb1e2)
 * could Move or Capture to Spaces labeled "s" without Leaping
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
@@ -32,10 +32,10 @@ Moves and Captures up to 4 Spaces along Rook Lines or up to 3 Spaces along Bisho
 * could Move or Capture to Spaces labeled "s" without Leaping
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
-### Arm
+### Wing
 Moves and Captures up to 4 Spaces along Rook Lines or 3 Spaces along Rook Lines followed by 1 Space in the same general direction along Bishop Lines
 
-![Arm](https://github.com/user-attachments/assets/f9f3414f-76c1-4859-851c-18a8299caf64)
+![Wing](https://github.com/user-attachments/assets/93710d79-b277-43ab-adb4-7af5691015cd)
 * could Move or Capture to Spaces labeled "s" without Leaping
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
@@ -46,4 +46,4 @@ Moves without Capturing 1 Space along Queen Lines, Leaps or Captures 2 Spaces Fo
 * could Leap or Capture by Leaping to Spaces labeled "j"
 * could Move without Capturing to Spaces labeled "m"
 ## Starting Territory
-![Starting Territory](https://github.com/user-attachments/assets/c9f06c54-a310-46dc-9529-25bbc4474b08)
+![Starting Territory](https://github.com/user-attachments/assets/8158ef7f-2fda-4289-9afd-fed66cb737c6)
