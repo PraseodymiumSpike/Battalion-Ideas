@@ -26,11 +26,11 @@ This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 ### Withdrawer
 This Piece may make a movement without Capturing by Displacement an unlimited number of Spaces along Queen Lines; if there is a Capturable Enemy Piece adjacent to the Space the Withdrawer started such a movement on but adjacent in the exact opposite direction to the direction the Withdrawer went in, that Enemy Piece is Captured. This Capture is not optional. There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#with).
 ### Coordinator
-This Piece may make a movement without Capturing by Displacement an unlimited number of Spaces along Queen Lines; when a Coordinator makes such a movement, any Capturable Enemy Pieces on Spaces that have 2 Rook Lines extending from them in perpendicular directions that fulfill the criteria listed are Captured. These Captures are not optional. The critera are:
+This Piece may make a movement without Capturing by Displacement an unlimited number of Spaces along Queen Lines; when a Coordinator makes such a movement, any Capturable Enemy Pieces on Spaces that have 2 Rook Lines extending from them in perpendicular directions that fulfill the criteria listed are Captured. The critera are:
 * 1 of the perpendicular Rook Lines extending from it eventually reaches the destination Space of the Coordinator that just Moved. Pieces in the way should be ignored for the purposes of this criterion.
 * The other of the perpendicular Rook Lines extending from it eventually reaches the Space of a Titan that is Friendly to the Coordinator that just Moved. Pieces in the way should be ignored for the purposes of this criterion.
 
-There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#coord).
+These Captures are not optional. There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#coord).
 ### Baroque Pawn
 This Piece may make a movement without Capturing by Displacement an unlimited number of Spaces along Rook Lines; if there is a Capturable Enemy Piece orthogonally adjacent to it when it ends such a movement, and there is a Friendly Piece orthogonally adjacent to that Enemy Piece but adjacent in the exact opposite direction to the direction the Baroque Pawn ended at, the Enemy Piece is Captured. This Capture is not optional. There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#pinch).
 ### Long Leaper
