@@ -38,7 +38,7 @@ This Piece may Move without Capturing an unlimited number of Spaces along Queen 
 ### Immobilizer
 This Piece may Move without Capturing along Queen Lines. Any non-Immutable Enemy Piece adjacent to it may not Move, Capture, give Check, or use any other active ability given to it by any mechanic except as described in the following sentence. Any Capturable Enemy Piece adjacent to it that is not Immutable and not a Titan may Capture itself as a turn. There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.html#imm).
 
-If an Immobilizer in adjacent to an Enemy Chameleon, it may not Move, Capture, give Check, or use any other active ability given to it by any mechanic except as described in the following sentence. It may Capture itself as a turn.
+If an Immobilizer is adjacent to an Enemy Chameleon, it may not Move, Capture, give Check, or use any other active ability given to it by any mechanic except as described in the following sentence. It may Capture itself as a turn.
 ### Chameleon
 This Piece may do 1 of 2 things:
 * It may make a movement without Capturing by Displacement an unlimited number of Spaces along Queen Lines.
