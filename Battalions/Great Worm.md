@@ -9,7 +9,7 @@ The Boundless: causes the Player Controlling it to lose the game immediately if 
 
 The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise
 
-The Nightmarish: begins the game with 10 Contempt, increases its Contempt by 1 each time it takes its mandatory action to a maximum of 10, can spend 10 of its Contempt as a Turn to create a Friendly Leg on a Space adjacent to a Lair in its Controller's Territory as long as that would leave it with a nonnegative amount of Contempt, a Lair being a Space that contained a Worm Titan during Territory Placement
+The Nightmarish: begins the game with 9 Contempt, increases its Contempt by 1 each time it takes its mandatory action to a maximum of 9, designates the Space it starts on as a Lair during Territory Placement, can spend 9 of its Contempt as a regular Turn before its mandatory action that Turn in order to create a Friendly Leg on a Space adjacent to a Lair in its Controller's Territory as long as that would leave it with a nonnegative amount of Contempt
 ### Arm
 Moves and Captures up to 3 Spaces along Bishop Lines or 2 Spaces along Bishop Lines followed by 1 Space in the same general direction along Rook Lines
 
