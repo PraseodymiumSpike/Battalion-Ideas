@@ -1,6 +1,6 @@
 # Baroque Battalion
 ## Preface
-This is essentially a 1-to-1 copy of the army each side has in _Ultima_ by the late Robert Abbott, described on [The Chess Variant Pages](https://www.chessvariants.com/other.dir/ultima.html). Very little on this page is in any way original, so all credit for it should go to Robert Abbott. The Battalion's Name comes from that _Ultima_ is also called "_Baroque Chess_".
+This is essentially a 1-to-1 copy of the army each side has in _Ultima_ by the late Robert Abbott, described on [The Chess Variant Pages](https://www.chessvariants.com/other.dir/ultima.html). Very little on this page is in any way original, so all credit for it should go to Robert Abbott. The Battalion's name comes from that _Ultima_ is also called "_Baroque Chess_".
 
 Since this document is pretty technical and pedantic in an attempt to make it compatible with all of the things that can occur in Titan's Battalion, it is highly recommended to be familiar with the rules of Ultima before reading this document.
 
