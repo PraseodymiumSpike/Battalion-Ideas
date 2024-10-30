@@ -21,7 +21,7 @@ The Supporter and its mechanics are be described here. Some of the rules surroun
 * could Leap without Capturing to Spaces labeled "t"
 #### General Interactions
 1. The Supporter is Immutable, and its presence on a Space doesn't affect the Movement of Any non-Supporter Pieces onto or through that Space. It is a bit like the Haunted in this sense.
-2. If Any Piece other that's neither a Haunted nor a Hex lands on the same Space as Any Supporter, that Supporter Captures itself. This is the only way Any Supporter may be Captured.
+2. If Any Piece other that's neither a Haunted nor a Hex ends its movement on the same Space as Any Supporter, that Supporter Captures itself. This is the only way Any Supporter may be Captured.
 3. If Any Supporter moves to a Space within 1 of the Space it was on previously, it creates a new Supporter on the Space it left, and the new Supporter is friendly to the Supporter that moved.
 #### Interaction with Enemy Supporters
 If a Supporter Moves to a Space adjacent to an Enemy Supporter, that Supporter switches sides to match the Supporter that Moved. Only Supporters' own movements trigger this effect; Any Supporters switching sides or being created do not trigger them.
