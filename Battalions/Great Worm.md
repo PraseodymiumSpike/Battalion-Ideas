@@ -36,7 +36,7 @@ Moves and Captures up to 4 Spaces along Rook Lines or 3 Spaces along Rook Lines 
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
 ### Leg
-Moves without Capturing 1 Space along Queen Lines, Leaps or Captures 2 Spaces Forwards or Sideways along Rook Lines or to the 4 Forwards Knight Squares
+Moves without Capturing 1 Space along Queen Lines, Leaps or Captures 2 Spaces Forwards or Sideways along Rook Lines or to the 4 Forwards Knight Spaces
 
 ![Leg](https://github.com/user-attachments/assets/394042f3-f392-4d94-b214-aa2a96382432)
 * could Leap or Capture by Leaping to Spaces labeled "j"
