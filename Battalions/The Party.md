@@ -82,7 +82,7 @@ The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to 
 |-|-|-|-|-|
 ||y||y||
 |y|z|x|z|y|
-||x|C|x||
+||x|D|x||
 |y|z|x|z|y|
 ||y||y||
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x"
