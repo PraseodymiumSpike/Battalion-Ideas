@@ -77,15 +77,16 @@ The Senator Leaps 2 Spaces along Queen Lines to Move or Capture. This Piece is s
 |j||j||j|
 * could Leap or Capture by Leaping to Spaces labeled "j"
 ### Deputy
-The Deputy Moves or Captures to Knight Squares by going 1 Space along a Rook Line and then 1 Space along a Bishop Line like a xiangqi horse.
+The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to Knight Spaces by going 1 Space along a Rook Line and then 1 Space along a Bishop Line like a xiangqi horse. It may only use the ability to Move or Capture 1 Space along Bishop Lines described in the previous sentence if this would put it on a Space adjacent to at least 3 Friendly Supporters.
 ||||||
 |-|-|-|-|-|
 ||y||y||
-|y||x||y|
-||x|D|x||
-|y||x||y|
+|y|z|x|z|y|
+||x|C|x||
+|y|z|x|z|y|
 ||y||y||
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x"
+* could Move or Capture to Spaces labeled "z" under certain circumstances
 ## Starting Territory
 | |^|^|^|^|^|^|^| |
 |-|-|-|-|-|-|-|-|-|
@@ -94,4 +95,4 @@ The Deputy Moves or Captures to Knight Squares by going 1 Space along a Rook Lin
 |x|S|D|A|K|C|S|D|x|
 |x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
-If at least 1 Player is using The Party as their Battalion, each Player gets 1 Supporter as a Backline Reinforcement
+If at least 1 Player is using The Party as their Battalion, each Player gets 1 Supporter as a Backline Reinforcement.
