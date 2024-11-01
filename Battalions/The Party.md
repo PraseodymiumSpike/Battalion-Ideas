@@ -88,11 +88,11 @@ The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to 
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x"
 * could Move or Capture to Spaces labeled "z" under certain circumstances
 ## Starting Territory
-| |^|^|^|^|^|^|^| |
+||^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|
 |x|P|P|P|P|P|P|P|x|
-|x| |S|D| |S|D| |x|
-|x|S|D|A|K|C|S|D|x|
+|x||S|D|K|S|D||x|
+|x|S|D|A||C|S|D|x|
 |x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
 If at least 1 Player is using The Party as their Battalion, each Player gets 1 Supporter as a Backline Reinforcement.
