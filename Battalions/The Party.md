@@ -56,16 +56,14 @@ The Paramilitant Moves or Captures 1 Square Forwards along Bishop Lines. It must
 ||P||
 * could Move or Capture to Spaces labeled "s"
 ### Agent
-The Agent Moves or Captures along Queen Lines but is not blocked by intervening Pieces; instead, it is blocked by empty space. It may only go to a Space if there are no intervening Spaces, or all intervening Spaces are occupied by Any Piece that blocks movement. It is still blocked by the edge of the Board.
+The Agent Moves without Capturing 1 Space along Rook Lines or Moves or Captures an unlimited number of Spaces along Bishop Lines as long as all Spaces on its path contain Friendly Supporters except the Spaces it begins and ends on.
 ||||
 |-|-|-|
-|x|x|x|
-|x|A|x|
-|x|x|x|
+|x|m|x|
+|m|A|m|
+|x|m|x|
 * could use unique movement ability in directions of Spaces labeled "x"
-#### Diagram of Agent's Ability
-Here, there is an Agent on g1. It may Move to c5, g3, h2, f1, or h1. It may Capture on d4. Note that if there were an enemy Piece on c5, it would have a choice to Capture on c5 or Capture on d4, but it could not Capture both enemy Pieces at the same time. By the way, part of the shown position is taken from a Synochess game, but that is not relevant.
-![Untitled](https://github.com/user-attachments/assets/fb0efbbb-aa8d-46a3-81b7-a58e9f95c8e4)
+* could Move without Capturing to spaces labeled "m"
 ### Senator
 The Senator Leaps 2 Spaces along Queen Lines to Move or Capture. This Piece is sometimes called an "alibaba".
 ||||||
