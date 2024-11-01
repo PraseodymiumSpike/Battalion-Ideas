@@ -56,7 +56,7 @@ The Paramilitant Moves or Captures 1 Square Forwards along Bishop Lines. It must
 ||P||
 * could Move or Capture to Spaces labeled "s"
 ### Agent
-The Agent Moves without Capturing 1 Space along Rook Lines or Moves or Captures an unlimited number of Spaces along Bishop Lines as long as all Spaces on its path contain Friendly Supporters except the Spaces it begins and ends on.
+The Agent Moves without Capturing 1 Space along Rook Lines or Moves or Captures an unlimited number of Spaces along Bishop Lines as long as any Spaces on its path except the Spaces it begins and ends on contain Friendly Supporters.
 ||||
 |-|-|-|
 |x|m|x|
