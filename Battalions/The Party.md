@@ -97,7 +97,7 @@ The Minister Moves or Captures an unlimited number of Spaces along Bishop Lines.
 ||^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|
 |x|P|P|P|P|P|P|P|P|x|
-|x|N|A|S|K|C|S|A|N|x|
+|x|M|A|S|K|C|S|A|M|x|
 |x||D|X|||X|D||x|
 |x|x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
