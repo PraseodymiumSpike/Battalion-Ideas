@@ -4,7 +4,7 @@ This is essentially a 1-to-1 copy of the army each side has in _Ultima_ by the l
 
 Since this document is pretty technical and pedantic in an attempt to make it compatible with all of the things that can occur in Titan's Battalion, it is highly recommended to be familiar with the rules of Ultima before reading this document.
 
-2 Players playing Perfect Balance together count as 1 Player for all the rules in this document.
+2 Players playing The Perfect Balance Battalion together count as 1 Player for all the rules in this document.
 ## Extra-Strength Battalions
 I propose that certain Battalions including this one be categorized as "Extra-Strength Battalions". A Battalion that's the full chu shogi army or the non-rebalanced _Djambi_ army would also be in this category. The rules in the remaining paragraphs in this section would apply to these Battalions.
 
