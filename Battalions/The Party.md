@@ -49,48 +49,56 @@ The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines
 #### Capture of a Chancellor
 If a Chancellor is Captured by a Player other than the Player Controlling that Chancellor, the Player who Captured it gains a Chancellor as a Nominated Reinforcement. Nominated Reinforcements may be placed in the Territory of the Player Controlling them as a turn. Outside of Party Mode, they may not be placed when the Player Controlling them is in Check.
 ### Paramilitant
-The Paramilitant Moves or Captures 1 Square Forwards along Bishop Lines. It must Promote to Agent if it reaches its Opponent's Back Rank.
+The Paramilitant Moves without Capturing 1 Square Forwards along a Rook Line or Captures 1 Square Forwards along Bishop Lines. It must Promote to Agent if it reaches its Opponent's Back Rank. It can Capture *en passant* like a Medieval Pawn.
 ||||
 |-|-|-|
-|s||s|
+|c|m|c|
 ||P||
-* could Move or Capture to Spaces labeled "s"
+* could Move without Capturing to Spaces labeled "s"
+* could Capture to spaces labeled "c"
 ### Agent
-The Agent Moves without Capturing 1 Space along Rook Lines or Moves or Captures an unlimited number of Spaces along Bishop Lines as long as any Spaces on its path except the Spaces it begins and ends on contain Friendly Supporters.
+The Agent Moves or Captures 1 Space along Rook Lines or Moves or Captures by taking an unlimited number of diagonal steps in a zigzagging manner like a Crooked Bishop. It may not pass through intervening Spaces, Spaces strictly between the beginning Space and end Space of its movement, unless those Spaces are occupied by Friendly Supporters. 
 ||||
 |-|-|-|
-|x|m|x|
-|m|A|m|
-|x|m|x|
-* could use unique movement ability in directions of Spaces labeled "x"
-* could Move without Capturing to spaces labeled "m"
+||&#x2927;||
+|x|s|x|
+|s|A|s|
+|x|s|x|
+* could use unique movement ability starting in directions of Spaces labeled "x"
+* could Move or Capture to spaces labeled "m"
 ### Senator
-The Senator Leaps 2 Spaces along Queen Lines to Move or Capture. This Piece is sometimes called an "alibaba".
-||||||
-|-|-|-|-|-|
-|j||j||j|
-||||||
-|j||S||j|
-||||||
-|j||j||j|
-* could Leap or Capture by Leaping to Spaces labeled "j"
+The Senator Moves or Captures 1 Square along Rook Lines or 1 Square Forwards along Bishop Lines.
+||||
+|-|-|-|
+|s|s|s|
+|s|S|s|
+||s||
+* could Move or Capture to Spaces labeled "s"
 ### Deputy
-The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to Knight Spaces by going 1 Space along a Rook Line and then 1 Space along a Bishop Line like a xiangqi horse. It may only use the ability to Move or Capture 1 Space along Bishop Lines described in the previous sentence if this would put it on a Space adjacent to at least 3 Friendly Supporters.
+The Deputy Moves or Captures 1 Space along Rook Lines or Moves or Captures to Knight Spaces by going 1 Space along a Rook Line and then 1 Space along a Bishop Line like a xiangqi horse.
 ||||||
 |-|-|-|-|-|
 ||y||y||
-|y|z|x|z|y|
-||x|D|x||
-|y|z|x|z|y|
+|y||s||y|
+||s|D|s||
+|y||s||y|
 ||y||y||
-* could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x"
-* could Move or Capture to Spaces labeled "z" under certain circumstances
+* could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "s"
+* could Move or Capture to Spaces labeled "s"
+### Minister
+The Minister Moves or Captures an unlimited number of Spaces along Bishop Lines.
+||||
+|-|-|-|
+|r||r|
+||M||
+|r||r|
+* could Move or Capture in the directions of Spaces labeled "r"
 ## Starting Territory
-||^|^|^|^|^|^|^||
-|-|-|-|-|-|-|-|-|-|
-|x|P|P|P|P|P|P|P|x|
-|x||S|D|K|S|D||x|
-|x|S|D|A||C|S|D|x|
-|x|x|x|x|x|x|x|x|x|
+||^|^|^|^|^|^|^|^||
+|-|-|-|-|-|-|-|-|-|-|
+|x|P|P|P|P|P|P|P|P|x|
+|x|N|A|S|K|C|S|A|N|x|
+|x||D|X|||X|D||x|
+|x|x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
-If at least 1 Player is using The Party as their Battalion, each Player gets 1 Supporter as a Backline Reinforcement.
+If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Backline Reinforcements. 2 Players playing The Perfect Balance Battalion as a team are considered 1 Player for the purposes of this rule.
