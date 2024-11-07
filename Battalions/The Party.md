@@ -95,7 +95,7 @@ The Agent Moves or Captures 1 Space along Queen Lines or Leaps 2 Spaces along Qu
 |-|-|-|-|-|
 |j||j||j|
 ||s|s|s||
-|j|s|I|s|j|
+|j|s|A|s|j|
 ||s|s|s||
 |j||j||j|
 * could Move or Capture to Spaces labeled "s"
