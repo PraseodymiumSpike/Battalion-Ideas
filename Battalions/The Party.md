@@ -22,11 +22,11 @@ The Supporter and its mechanics are be described here. Some of the rules surroun
 #### General Interactions
 1. The Supporter is Immutable, and its presence on a Space doesn't affect the Movement of Any non-Supporter Pieces onto or through that Space. It is a bit like the Haunted in this sense.
 2. If Any Piece other that's neither a Haunted nor a Hex ends its movement on the same Space as Any Supporter, that Supporter Captures itself. This is the only way Any Supporter may be Captured.
-3. If Any Supporter moves to a Space within 1 of the Space it was on previously, it creates a new Supporter on the Space it left, and the new Supporter is friendly to the Supporter that moved.
-#### Interaction with Enemy Supporters
-If a Supporter Moves to a Space adjacent to an Enemy Supporter, that Supporter switches sides to match the Supporter that Moved. Only Supporters' own movements trigger this effect; Any Supporters switching sides or being created do not trigger them.
+3. If Any Supporter Moves to a Space within 1 of the Space it was on previously, it creates a new Supporter on the Space it left, and the new Supporter is friendly to the Supporter that moved. This only applies when Supporters Move on the Board, not when they are placed on the Board from elsewhere. 
+#### Interaction with Other Supporters
+Supporters may not Move to Spaces occupied by other Supporters, and Supporters which are Full-Depth Reinforcements may not be placed on Spaces occupied by other Supporters. If a Supporter Moves to a Space adjacent to an Enemy Supporter, that Supporter switches sides to match the Supporter that Moved. Only Supporters' own movements trigger this effect; Any Supporters switching sides or being created do not trigger them.
 #### Interaction with Haunted and Cultist Hexes
-No Supporters directly interact with Haunted, Hexes, or _w&#233;iq&#237;_-style Capture at all. A Haunted or Hex may be placed on a Space already containing Any Supporter. Any Supporter and Any Haunted or Hex may share a Space regardless of if they are Friendly to each other; for example, this may occur when a Haunted or Hex is placed on a Space already containing a Supporter or if a Supporter Moves to&#x2014;or is created on&#x2014;a Space already containing a Haunted or Hex. All Supporters are immune to Capture by loss of Liberties. They do not count as part of Groups and do not count as filling any Player's Liberties. Any Haunted or Hex sharing a Space with Any Supporter generally counts as part of a Group and may count as filling a Liberty.
+No Supporters directly interact with Haunted, Hexes, or _w&#233;iq&#237;_-style Capture at all. A Haunted or Hex may be placed on a Space already containing Any Supporter. Any Supporter and Any Haunted or Hex may share a Space regardless of if they are Friendly to each other; for example, this may occur when a Haunted or Hex is placed on a Space already containing a Supporter or if a Supporter Moves to&#x2014;or is created or placed on&#x2014;a Space already containing a Haunted or Hex. All Supporters are immune to Capture by loss of Liberties. They do not count as part of Groups and do not count as filling any Player's Liberties. Any Haunted or Hex sharing a Space with Any Supporter generally counts as part of a Group and may count as filling a Liberty.
 ### Chairman
 This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 ||||
@@ -47,7 +47,7 @@ The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines
 * could slide in directions of Spaces labeled "x", only able to Capture under certain circumstances
 * could Leap to Spaces labeled "y", only able to Capture under certain circumstances
 #### Capture of a Chancellor
-If a Chancellor is Captured by a Player other than the Player Controlling that Chancellor, the Player who Captured it gains a Chancellor as a Nominated Reinforcement. Nominated Reinforcements may be placed in the Territory of the Player Controlling them as a turn. Outside of Party Mode, they may not be placed when the Player Controlling them is in Check.
+If a Chancellor is Captured by a Player other than the Player Controlling that Chancellor, the Player who Captured it gains a Chancellor as a Full-depth Reinforcement. Full-depth reinforcements are explained later.
 ### Paramilitant
 The Paramilitant Moves without Capturing 1 Square Forwards along a Rook Line or Captures 1 Square Forwards along Bishop Lines. It must Promote to Agent if it reaches its Opponent's Back Rank. It can Capture *en passant* like a Medieval Pawn.
 ||||
@@ -56,23 +56,15 @@ The Paramilitant Moves without Capturing 1 Square Forwards along a Rook Line or 
 ||P||
 * could Move without Capturing to Spaces labeled "s"
 * could Capture to spaces labeled "c"
-### Agent
-The Agent Moves or Captures 1 Space along Rook Lines or Moves or Captures by taking an unlimited number of diagonal steps in a zigzagging manner like a Crooked Bishop. It may not pass through intervening Spaces, Spaces strictly between the beginning Space and end Space of its movement, unless those Spaces are occupied by Friendly Supporters. 
+### Senator
+The Senator Moves or Captures 1 Space along Rook Lines or Moves or Captures by taking an unlimited number of diagonal steps in a zigzagging manner like a Crooked Bishop. It may not pass through intervening Spaces, Spaces strictly between the beginning Space and end Space of its movement, unless those Spaces are occupied by Friendly Supporters. 
 ||||
 |-|-|-|
 ||&#x2927;||
 |x|s|x|
-|s|A|s|
+|s|S|s|
 |x|s|x|
 * could use unique movement ability starting in directions of Spaces labeled "x"
-* could Move or Capture to spaces labeled "m"
-### Senator
-The Senator Moves or Captures 1 Square along Rook Lines or 1 Square Forwards along Bishop Lines.
-||||
-|-|-|-|
-|s|s|s|
-|s|S|s|
-||s||
 * could Move or Capture to Spaces labeled "s"
 ### Deputy
 The Deputy Moves or Captures 1 Space along Rook Lines or Moves or Captures to Knight Spaces by going 1 Space along a Rook Line and then 1 Space along a Bishop Line like a xiangqi horse.
@@ -93,12 +85,25 @@ The Minister Moves or Captures an unlimited number of Spaces along Bishop Lines.
 ||M||
 |r||r|
 * could Move or Capture in the directions of Spaces labeled "r"
+### Agent
+The Agent Moves or Captures 1 Space along Queen Lines or Leaps 2 Spaces along Queen Lines to Move or Capture.
+||||||
+|-|-|-|-|-|
+|j||j||j|
+||s|s|s||
+|j|s|X|s|j|
+||s|s|s||
+|j||j||j|
+* could Move or Capture to Spaces labeled "s"
+* could Leap or Capture to Spaces labeled "j"
+## Full-depth Reinforcements
+Certain Pieces from this Battalion may become Full-depth Reinforcements due to game mechanics. Full-depth Reinforcements may be placed in the Territory of the Player Controlling them as a turn. They may only be placed on an empty Space or a Space occupied only by Pieces that don't block movement such as Haunted, Hexes, Supporters, Whisperers, and Wills o' Wisp.
 ## Starting Territory
 ||^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|
-|x|P|P|P|P|P|P|P|P|x|
-|x|M|C|S|K|A|S|C|M|x|
-|x||D|X|||X|D||x|
+|x|||||||||x|
+|x|X|P|P|P|P|P|P|X|x|
+|x|M|A|D|K|C|D|S|M|x|
 |x|x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
-If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Backline Reinforcements. 2 Players playing The Perfect Balance Battalion as a team are considered 1 Player for the purposes of this rule.
+If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Full-depth Reinforcements. 2 Players playing The Perfect Balance Battalion as a team are considered 1 Player for the purposes of this rule.
