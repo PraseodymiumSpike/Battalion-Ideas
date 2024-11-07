@@ -66,6 +66,10 @@ The Senator Moves or Captures 1 Space along Rook Lines or Moves or Captures by t
 |x|s|x|
 * could use unique movement ability starting in directions of Spaces labeled "x"
 * could Move or Capture to Spaces labeled "s"
+#### Example Diagram
+![Senator Diagram](https://github.com/user-attachments/assets/a833b5a6-77a6-420f-8d74-41151077029f)
+
+In this diagram, Supporters are represented by crescents.
 ### Deputy
 The Deputy Moves or Captures 1 Space along Rook Lines or Moves or Captures to Knight Spaces by going 1 Space along a Rook Line and then 1 Space along a Bishop Line like a xiangqi horse.
 ||||||
