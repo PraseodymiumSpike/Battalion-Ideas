@@ -1,4 +1,6 @@
 # Preface
+I'm likely not going to continue trying to make this into a Battalion as the first test game of the makpong-versus-chess idea showed some fundamental flaws such as the lack of the makpong side's ability to defend its king.
+
 You can see https://discord.com/channels/634298688663191582/1241770811254378578 for context. A screenshot is also provided for those not in the PyChess Players Discord Server, but the screenshot might not be updated.
 ![Discord Screenshot - Copy](https://github.com/user-attachments/assets/a846f783-07b6-4027-bfef-f2d0305e2d58)
 # Snare Pieces
