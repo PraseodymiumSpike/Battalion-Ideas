@@ -5,9 +5,9 @@ This is adapted from an still-untested Ordamirror variant that I made a while ag
 ### Worm Titan
 Titan, Immutable, Moves and Captures an unlimited number of Spaces along Rook Lines, has properties listed below
 
-The Boundless: causes the Player Controlling it to lose the game immediately if it visits or passes through a Square it has already been on or passed through previously at any point in the game even if this would fulfill a victory condition such as Checkmate, cannot visit or pass through a Square it has already been on or passed through previously at any point in the game if this would Capture a Titan
+The Boundless: cannot visit or pass through a Square it has already been on or passed through previously at any point in the game
 
-The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise
+The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise, causes the Player controlling it to lose instantly if the mandatory action is not possible
 
 The Nightmarish: begins the game with 9 Contempt, increases its Contempt by 1 each time it takes its mandatory action to a maximum of 9, designates the Space it starts on as a Lair during Territory Placement, can spend 9 of its Contempt as a regular Turn before its mandatory action that Turn in order to create a Friendly Leg on a Space adjacent to a Lair in its Controller's Territory as long as that would leave it with a nonnegative amount of Contempt
 ### Arm
