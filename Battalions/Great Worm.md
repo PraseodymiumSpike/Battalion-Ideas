@@ -18,9 +18,9 @@ Moves and Captures up to 3 Spaces along Bishop Lines or 2 Spaces along Bishop Li
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
 ### Claw
-Moves and Captures 1 Space Forwards or Sideways along Rook Lines, Moves without Capturing or Leaping 2 Spaces Forwards if the intervening Space is empty
+Moves and Captures 1 Space along Rook Lines, Moves without Capturing or Leaping 2 Spaces Forwards along a Rook Line if the intervening Space is empty
 
-En Passant: can be Captured *en passant* as if it were a Medieval Pawn whenever it Moves 2 Squares straight Forwards without Capturing
+En Passant: can be Captured *en passant* as if it were a Medieval Pawn whenever it Moves 2 Spaces using the ability described
 ### Talon
 Moves and Captures up to 4 Spaces along Rook Lines or up to 3 Spaces along Bishop Lines, Moves and Captures 3 Spaces along Rook Lines followed by 1 Space in the same general direction along Bishop Lines, Moves and Captures 2 Spaces along Bishop Lines followed by 1 Space in the same general direction along Rook Lines
 
@@ -36,10 +36,10 @@ Moves and Captures up to 4 Spaces along Rook Lines or 3 Spaces along Rook Lines 
 * could Move or Capture to Spaces labeled "x" without Leaping
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
 ### Leg
-Moves without Capturing 1 Space along Queen Lines, Leaps or Captures 2 Spaces Forwards or Sideways along Rook Lines or to the 4 Forwards Knight Spaces
+Moves without Capturing 1 Space along Queen Lines, Leaps or Captures 2 Spaces along Rook Lines or to the 2 most Forwards Knight Spaces
 
-![Leg](https://github.com/user-attachments/assets/394042f3-f392-4d94-b214-aa2a96382432)
+![Leg](https://github.com/user-attachments/assets/740a3476-db98-4fde-8aa7-32875c5f4f3d)
 * could Leap or Capture by Leaping to Spaces labeled "j"
 * could Move without Capturing to Spaces labeled "m"
 ## Starting Territory
-![Starting Territory](https://github.com/user-attachments/assets/8158ef7f-2fda-4289-9afd-fed66cb737c6)
+![Starting Territory](https://github.com/user-attachments/assets/428c8dca-114d-4cbe-9b5f-7137d0925c1b)
