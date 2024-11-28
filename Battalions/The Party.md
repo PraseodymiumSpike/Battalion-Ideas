@@ -20,7 +20,7 @@ The Supporter and its mechanics are be described here. Some of the rules surroun
 * could Move to Spaces labeled "m"
 * could Leap without Capturing to Spaces labeled "t"
 #### General Interactions
-1. The Supporter is Immutable, and its presence on a Space doesn't affect the Movement of Any non-Supporter Pieces onto or through that Space. It is a bit like the Haunted in this sense.
+1. The Supporter is Immutable, and, with a few exceptions specified in this file, its presence on a Space neither affects the Movement of Any Pieces onto or through that Space nor prevents Pieces from being dropped onto that space. It is a bit like the Haunted in this sense.
 2. If Any Piece other that's neither a Haunted nor a Hex ends its movement on the same Space as Any Supporter, that Supporter Captures itself. This is the only way Any Supporter may be Captured.
 3. If Any Supporter Moves to a Space within 1 of the Space it was on previously, it creates a new Supporter on the Space it left, and the new Supporter is friendly to the Supporter that moved. This only applies when Supporters Move on the Board, not when they are placed on the Board from elsewhere. 
 #### Interaction with Other Supporters
@@ -60,19 +60,16 @@ The Paramilitant Moves without Capturing up to 2 Spaces Forwards or up to 1 Spac
 * could Move without Capturing to Space labeled "x" under certain circumstances
 * could Move without Capturing to Space labeled "b" from a Space o the Battlefield
 ### Senator
-The Senator Moves or Captures 1 Space along Rook Lines or Moves or Captures by taking an unlimited number of diagonal steps in a zigzagging manner like a Crooked Bishop. It may not pass through intervening Spaces, Spaces strictly between the beginning Space and end Space of its movement, unless those Spaces are occupied by Friendly Supporters. 
-||||
-|-|-|-|
-||&#x2927;||
-|x|s|x|
-|s|S|s|
-|x|s|x|
+The Senator Moves or Captures 1 Space along Rook Lines or Moves or Captures by Leaping 2 Spaces along a Bishop Line. If it Leaps in that way over a Space containing a Friendly Supporter, it may Leap in that way again in the same Turn even if it previously Captured that Turn. It may continue Leaping in this way regardless of how many Leaps it made previously that Turn. However, it may only Leap a finite number of times in a Turn.
+||||||
+|-|-|-|-|-|
+|x||||x|
+|||s|||
+||s|S|s||
+|||s|||
+|x||||x|
 * could use unique movement ability starting in directions of Spaces labeled "x"
 * could Move or Capture to Spaces labeled "s"
-#### Example Diagram
-![Senator Diagram](https://github.com/user-attachments/assets/a833b5a6-77a6-420f-8d74-41151077029f)
-
-In this diagram, Supporters are represented by crescents.
 ### Deputy
 The Deputy Moves or Captures 1 Space along Rook Lines or Moves or Captures to Knight Spaces by going 1 Space along a Rook Line and then 1 Space along a Bishop Line like a xiangqi horse.
 ||||||
@@ -92,25 +89,14 @@ The Minister Moves or Captures an unlimited number of Spaces along Bishop Lines.
 ||M||
 |r||r|
 * could Move or Capture in the directions of Spaces labeled "r"
-### Agent
-The Agent Moves or Captures 1 Space along Queen Lines or Leaps 2 Spaces along Queen Lines to Move or Capture.
-||||||
-|-|-|-|-|-|
-|j||j||j|
-||s|s|s||
-|j|s|A|s|j|
-||s|s|s||
-|j||j||j|
-* could Move or Capture to Spaces labeled "s"
-* could Leap or Capture to Spaces labeled "j"
 ## Full-depth Reinforcements
-Certain Pieces from this Battalion may become Full-depth Reinforcements due to game mechanics. Full-depth Reinforcements may be placed in the Territory of the Player Controlling them as a turn. They may only be placed on an empty Space or a Space occupied only by Pieces that don't block movement such as Haunted, Hexes, Supporters, Whisperers, and Wills o' Wisp.
+Certain Pieces from this Battalion may become Full-depth Reinforcements due to game mechanics. Full-depth Reinforcements may be placed in the Territory of the Player Controlling them as a Turn. They may only be placed on an empty Space or a Space occupied only by Pieces that don't block movement such as Haunted, Hexes, Supporters, Whisperers, and Wills o' Wisp.
 ## Starting Territory
 ||^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|
 |x|||||||||x|
 |x|X|P|P|P|P|P|P|X|x|
-|x|M|A|D|K|C|D|S|M|x|
+|x|M|S|D|K|C|D|S|M|x|
 |x|x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
 If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Full-depth Reinforcements. 2 Players playing The Perfect Balance Battalion as a team are considered 1 Player for the purposes of this rule.
