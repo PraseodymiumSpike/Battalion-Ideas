@@ -49,7 +49,7 @@ The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines
 #### Capture of a Chancellor
 If a Chancellor is Captured by a Player other than the Player Controlling that Chancellor, the Player who Captured it gains a Chancellor as a Full-depth Reinforcement. Full-depth reinforcements are explained later.
 ### Paramilitant
-The Paramilitant Moves without Capturing up to 2 Spaces Forwards or up to 1 Space sideways along Rook Lines or Captures 1 Space Forwards along Bishop Lines. When it is not on its back 2 Ranks, it loses the ability described to Move more than 1 Space. When it is not on the Battlefield, it loses the ability described to Move sideways along Rook Lines. It must Promote to Agent if it reaches its Opponent's Back Rank. It can Capture and be Captured *en passant* like a Medieval Pawn.
+The Paramilitant Moves without Capturing up to 2 Spaces Forwards or up to 1 Space sideways along Rook Lines or Captures 1 Space Forwards along Bishop Lines. When it is not on its back 2 Ranks, it loses the ability described to Move more than 1 Space. When it is not on the Battlefield, it loses the ability described to Move sideways along Rook Lines. It must Promote to Senator, Deputy, or Minister if it reaches its Opponent's Back Rank. It can Capture and be Captured *en passant* like a Medieval Pawn.
 ||||
 |-|-|-|
 ||x||
@@ -58,7 +58,7 @@ The Paramilitant Moves without Capturing up to 2 Spaces Forwards or up to 1 Spac
 * could Move without Capturing to Space labeled "s"
 * could Capture to Spaces labeled "c"
 * could Move without Capturing to Space labeled "x" under certain circumstances
-* could Move without Capturing to Space labeled "b" from a Space o the Battlefield
+* could Move without Capturing to Space labeled "b" from a Space on the Battlefield
 ### Senator
 The Senator Moves or Captures 1 Space along Rook Lines or Moves or Captures by Leaping 2 Spaces along a Bishop Line. If it Leaps in that way over a Space containing a Friendly Supporter, it may Leap 2 Spaces along a Bishop Line again in the same Turn even if it previously Captured that Turn. It may continue Leaping in this way regardless of how many Leaps it made previously that Turn. However, it may only Leap a finite number of times in a Turn.
 ||||||
