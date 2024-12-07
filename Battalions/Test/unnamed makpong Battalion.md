@@ -1,8 +1,9 @@
 # Preface
-I'm likely not going to continue trying to make this into a Battalion as the first test game of the makpong-versus-chess idea showed some fundamental flaws such as the lack of the makpong side's ability to defend its king.
+I'm once again willing to consider this Battalion.
 
 You can see https://discord.com/channels/634298688663191582/1241770811254378578 for context. A screenshot is also provided for those not in the PyChess Players Discord Server, but the screenshot might not be updated.
-![Discord Screenshot - Copy](https://github.com/user-attachments/assets/a846f783-07b6-4027-bfef-f2d0305e2d58)
+![image](https://github.com/user-attachments/assets/5d3b7dd1-3dde-4276-ba71-1b1240d84d53)
+
 # Snare Pieces
 Snare Pieces treat Enemy Titans like a makpong king. Specifically, this means that for each Snare Piece attacking a particular Enemy Titan, with the sole exception of Capturing that specific Snare Piece, that Enemy Titan cannot Move, Capture, or use any other active ability given to it by any mechanic. This means that if a Titan is attacked by 2 Enemy Snare Pieces simultaneously, it would usually be illegal for the Titan to Capture either Snare Piece as that would not Capture the other Snare Piece. And if that is the Player's only Titan, it may even be illegal to Capture 1 of the Enemy Snare Pieces with another Friendly Piece as that would leave the Titan vulnerable to attack by the other Enemy Snare Piece. This does not affect Immutable Titans.
 
@@ -20,8 +21,11 @@ This Piece is a Snare Piece. This Piece may Move or Capture to Knight Squares.
 This Piece is a Snare Piece. This Piece may Move or Capture an unlimited number of Spaces along Rook Lines.
 ## Snare Pawn (_bia_)
 This Piece is a Snare Piece. This Piece may Move without Capturing 1 Space Forward along a Rook Line. This Piece may Capture 1 Space Forward along Bishop Lines. This Piece must Promote to Promoted Snare Pawn when it reaches on a Space in the back 3 Ranks of the Opponent's Territory. If it is able to Promote at any other time for any reason, it must do so. This Piece may Capture _en passant_ as if it is a Medieval Pawn.
-## Promoted Snare Pawn
+## Promoted Snare Pawn (_bia-ngai_)
 This Piece is a Snare Piece. This Piece may Move or Capture 1 Space along Bishop Lines.
+# Additional Rules
+1. Non-Immutable Pieces may not make any diagonal Movements, Capturing or otherwise, to any Spaces either within or adjacent to this Battalion's Territory unless the starting and ending Spaces of the Movement are adjacent to each other. Both diagonal and orthogonal adjacency count as adjacency. This rule does not affect Moves or Captures to Spaces that are neither within nor adjacent to this Battalion's Territory.
+2. Pieces whose regular movement abilities are affected by the previous rule gain the ability to Move or Capture 1 Space Forwards along a Rook Line if they did not already have that ability.
 # Starting Territory
 ||^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|
