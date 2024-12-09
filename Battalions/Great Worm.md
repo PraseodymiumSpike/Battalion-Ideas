@@ -3,11 +3,13 @@
 This is adapted from an still-untested Ordamirror variant that I made a while ago which can be found [here](https://praseodymiumspike.neocities.org/Snake_in_Ordamirror). However, it is so different from that variant that I think it's reasonable to have it be my "brand-new" Battalion for this event. The idea of having the entire Battalion be a single monstrous creature is taken from Mad Chess, and some Piece abilities are inspired by the Pieces from that game as well.
 ## Pieces
 ### Worm Titan
-Titan, Immutable, Moves and Captures an unlimited number of Spaces along Queen Lines, has properties listed below
+Titan, Immutable, Moves and Captures an unlimited number of Spaces along Rook Lines, can Move or Capture through but not into Check, has properties listed below
 
 The Boundless: cannot visit or pass through a Square it has already been on or passed through previously at any point in the game
 
 The Looming: must Move or Capture as an additional mandatory action that occurs at the end of its Controller's Turn, cannot Move or Capture otherwise, causes the Player controlling it to lose instantly if the mandatory action is not possible
+
+The Unyielding: after Moving more than 1 Space without Capturing, for 1 Enemy Turn, immune to Capture by any Enemy Piece that attacks every Space it Moved through but did not start from or land on during that Move
 
 The Nightmarish: begins the game with 9 Contempt, increases its Contempt by 1 each time it takes its mandatory action to a maximum of 9, designates the Space it starts on as a Lair during Territory Placement, can spend 9 of its Contempt as a regular Turn before its mandatory action that Turn in order to create a Friendly Leg on a Space adjacent to a Lair in its Controller's Territory as long as that would leave it with a nonnegative amount of Contempt
 ### Arm
