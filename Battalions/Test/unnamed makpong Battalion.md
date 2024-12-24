@@ -24,8 +24,8 @@ This Piece is a Snare Piece. This Piece may Move without Capturing 1 Space Forwa
 ## Promoted Snare Pawn (_bia-ngai_)
 This Piece is a Snare Piece. This Piece may Move or Capture 1 Space along Bishop Lines.
 # Additional Rules
-1. Non-Immutable Pieces may not make any diagonal Movements, Capturing or otherwise, to any Spaces either within or adjacent to this Battalion's Territory unless the starting and ending Spaces of the Movement are adjacent to each other. Both diagonal and orthogonal adjacency count as adjacency. This rule does not affect Moves or Captures to Spaces that are neither within nor adjacent to this Battalion's Territory.
-2. Pieces whose regular movement abilities are affected by the previous rule gain the ability to Move or Capture 1 Space Forwards along a Rook Line if they did not already have that ability.
+1. Non-Immutable Pieces may not make any diagonal Movements, Capturing or otherwise, to any Spaces either within or adjacent to this Battalion's Territory unless the starting and ending Spaces of the Movement are adjacent to each other. Both diagonal and orthogonal adjacency count as adjacency. This rule does not affect Moves or Captures to Spaces that are neither within nor adjacent to this Battalion's Territory. Notably, this rule does not affect any Moves or Captures from Spaces within or adjacent to this Battalion's Territory to Spaces that are neither within or adjacent to this Battalion's Territory.
+2. Pieces whose regular movement abilities are affected by the previous rule gain the ability to Move or Capture 1 Space Forwards along a Rook Line if they did not already have that ability. This ability can only be used to Move or Capture to Spaces within or adjacent to this Battalion's Territory. Like the case of the previous rule, the destination of the Move or Capture determines if this rule makes it legal.
 # Starting Territory
 ||^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|
