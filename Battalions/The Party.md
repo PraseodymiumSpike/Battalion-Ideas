@@ -36,7 +36,7 @@ This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"
 ### Chancellor
-The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines or Leaps to Knight Squares to Move or Capture. When the Player Controlling it does not Control strictly more Supporters on the Board than their Opponent&#x2014;or, in Party Mode, the one of their Opponents who Controls the most Supporters&#x2014;it loses the ability to Capture indicated in the previous sentence.
+The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines or Leaps to Knight Squares to Move or Capture. When the Player Controlling it does not have a Support Level strictly higher than their Opponent&#x2014;or, in Party Mode, the one of their Opponents with the highest Support Level&#x2014;it loses the ability to Capture indicated in the previous sentence.
 ||||||
 |-|-|-|-|-|
 ||y|&#x2191;|y||
@@ -46,8 +46,10 @@ The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines
 ||y|&#x2193;|y||
 * could slide in directions of Spaces labeled "x", only able to Capture under certain circumstances
 * could Leap to Spaces labeled "y", only able to Capture under certain circumstances
+#### Support Level
+A Player's Support Level is the number of Supporters they Control on the Board plus 3 times the number of Coups they've accomplished so far in the game. Coups are explained in the next Section.
 #### Capture of a Chancellor
-If a Chancellor is Captured by a Player other than the Player Controlling that Chancellor, the Player who Captured it gains a Chancellor as a Full-depth Reinforcement. Full-depth reinforcements are explained later.
+If a Chancellor is Captured by a Player other than the Player Controlling that Chancellor, the Player who owned the Chancellor before its Capture gains a new Chancellor as a Full-depth Reinforcement, but the Player who Captured the Chancellor accomplishes a Coup. Full-depth reinforcements are explained later. Coups have no effect other than increasing Players' Support Level.
 ### Paramilitant
 The Paramilitant Moves without Capturing up to 2 Spaces Forwards or up to 1 Space sideways along Rook Lines or Captures 1 Space Forwards along Bishop Lines. When it is not on its back 2 Ranks, it loses the ability described to Move more than 1 Space. When it is not on the Battlefield, it loses the ability described to Move sideways along Rook Lines. It must Promote to Senator, Deputy, or Minister if it reaches its Opponent's Back Rank. It can Capture and be Captured *en passant* like a Medieval Pawn.
 ||||
@@ -99,4 +101,6 @@ Certain Pieces from this Battalion may become Full-depth Reinforcements due to g
 |x|M|S|D|K|C|D|S|M|x|
 |x|x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
-If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Full-depth Reinforcements. 2 Players playing The Perfect Balance Battalion as a team are considered 1 Player for the purposes of this rule.
+If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Full-depth Reinforcements.
+## Additional Note
+2 Players playing The Perfect Balance Battalion as a team are considered 1 Player for the purposes of these rules.
