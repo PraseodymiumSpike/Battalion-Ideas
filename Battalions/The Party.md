@@ -60,7 +60,7 @@ The Paramilitant Moves without Capturing up to 2 Spaces Forwards or up to 1 Spac
 * could Move without Capturing to Space labeled "x" under certain circumstances
 * could Move without Capturing to Space labeled "b" from a Space on the Battlefield
 ### Senator
-The Senator Moves or Captures 1 Space along Rook Lines or Moves or Captures by Leaping 2 Spaces along a Bishop Line. If it Leaps in that way over a Space containing a Friendly Supporter, it may Leap 2 Spaces along a Bishop Line again in the same Turn even if it previously Captured that Turn. It may continue Leaping in this way regardless of how many Leaps it made previously that Turn. However, it may only Leap a finite number of times in a Turn.
+The Senator Moves or Captures 1 Space along Rook Lines or Moves or Captures by Leaping 2 Spaces along a Bishop Line. If it Leaps in that way over a Space containing a Friendly Supporter, it may Leap 2 Spaces along a Bishop Line again in the same Turn even if it previously Captured that Turn. It may continue Leaping in this way regardless of how many Leaps it made previously that Turn. However, it may only Leap a finite number of times in a Turn. Note that each Leap is considered a separate movement and could separately cause Any Supporter on the Space the Leap ends on to Capture itself.
 ||||||
 |-|-|-|-|-|
 |x||||x|
