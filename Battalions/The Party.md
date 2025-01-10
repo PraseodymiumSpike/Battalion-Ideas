@@ -47,7 +47,7 @@ The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines
 * could slide in directions of Spaces labeled "x", only able to Capture under certain circumstances
 * could Leap to Spaces labeled "y", only able to Capture under certain circumstances
 #### Support Level
-A Player's Support Level is the number of Supporters they Control on the Board plus 3 times the number of Coups they've accomplished so far in the game. Coups are explained in the next Section.
+A Player's Support Level is the number of Supporters they Control on the Board plus 3 times the number of Coups they've accomplished so far in the game. Coups are explained in the next section.
 #### Capture of a Chancellor
 If a Chancellor is Captured by a Player other than the Player Controlling that Chancellor, the Player who owned the Chancellor before its Capture gains a new Chancellor as a Full-depth Reinforcement, but the Player who Captured the Chancellor accomplishes a Coup. Full-depth reinforcements are explained later. Coups have no effect other than increasing Players' Support Level.
 ### Paramilitant
