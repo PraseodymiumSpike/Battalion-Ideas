@@ -15,21 +15,19 @@ usually giving the opponent extra loss conditions is kind of a problem but hopef
 
 also this is philosophically inspired by traveling circus
 
-## the anti titan
+## the anti titan (not actually a titan)
 it will have a real name but idk what to call any of the pieces either
 
 this piece belongs to the opponent
 
-it is illegal for this pieces owner to end their turn in such a way that they have anti-titan that is not attacked
+when this piece is not under attack, its owner is in check no matter how many titans they have
 
-2 options for capturability, i havent decided yet:
-1. unlike in the version linked above, capturing it is legal, though it might be a bad idea
-2. capturing it is illegal but it still counts as attacked when another piece is attacking it
+capturing it is illegal but it still counts as attacked when another piece is attacking it
 
-it can capture friendly pieces but not enemy pieces (it doesnt give check to friendly titans but if you capture your own last titan you would lose in general)
+it can capture friendly pieces but not enemy pieces (it doesnt give check to friendly titans but if you capture your own last titan you would usually lose)
 
 maybe it should be immutable?
 
 something to consider: "the rule that Kings do not attack Anti-King are the sort of fiddly little rules that get added because they improve play. Neither is strictly necessary, although without the second the Anti-King tends to attach itself to the King and stick on it like a leech."
 
-i dont want to have this rule which means that the titan of this battalion should have a way to either get away from the anti-titan, or to avoid attacking it in some way
+i dont want to have this rule which means that the titan of this battalion should have a way to either get away from the anti-titan, or to avoid attacking it in some way, an idea is to have them color locked on opposite colors: anti titan is a kirin and the titan is a ferz
