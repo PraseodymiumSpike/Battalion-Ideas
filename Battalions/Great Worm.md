@@ -13,7 +13,7 @@ The Contemptuous: begins the game with 0 Contempt, increases its Contempt by 1 e
 
 The Nightmarish: designates the Space it starts on as a Lair during Territory Placement, can spend 9 of its Contempt as a regular Turn before its mandatory action that Turn in order to create a Friendly Leg on a Space adjacent to a Lair in its Controller's Territory
 
-The Devouring: can spend 9 of its Contempt as a regular Turn before its mandatory action that Turn to Capture a Piece attacking it from a diagonally Adjacent Space 
+The Devouring: as a regular Turn before its mandatory action that Turn, can Capture a Piece on a diagonally Adjacent Space without going to that Space, setting its own Contempt to 0 regardless of what its Contempt was before
 ### Claw
 Moves and Captures 1 Space along Rook Lines, Moves without Capturing or Leaping 2 Spaces Forwards along a Rook Line if the intervening Space is empty
 
