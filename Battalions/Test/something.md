@@ -54,4 +54,4 @@ this gives the opponent some control over your pieces and therefore which square
 
 3 leaper is not an issue due to oppoenents partial control of piece location
 
-can solo mate a bare king
+can solo mate a bare king (technically basically any piece could mate by attacking a titan and simultaneously unattacking an anti titan, but this piece can mate without un attacking an anti-titan)
