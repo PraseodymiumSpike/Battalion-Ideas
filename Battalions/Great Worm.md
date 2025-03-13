@@ -13,7 +13,7 @@ The Contemptuous: Each Worm Titan has an integer attached to it called "Contempt
 
 The Nightmarish: The Space in a Player's Territory a Worm Titan begins on is called its "Lair". A Worm Titan can decrease its Contempt by 9 during the regular Phase of the Turn in order to create a Friendly Leg on a Space Adjacent to its Lair. Note that in almost all cases, a Space is not considered Adjacent to itself.
 
-The Devouring: During the regular Phase of the Turn, a Worm Titan can Capture a Piece on a diagonally Adjacent Space. The Worm Titan does not actually go to that Space when it Captures this way; the Captured Piece is just removed from the Board. As such, a Worm Titan may use this abiity to Capture Pieces that are on Spaces thatit hasbeen on or passed through before.
+The Devouring: During the regular Phase of the Turn, a Worm Titan can Capture a Piece on a diagonally Adjacent Space. The Worm Titan does not actually go to that Space when it Captures this way; the Captured Piece is just removed from the Board. As such, a Worm Titan may use this abiity to Capture Pieces that are on Spaces that it has been on or passed through before.
 ### Claw
 The Claw Moves and Captures 1 Space Forwards or Sideways along Rook Lines. It can also Move without Capturing or Leaping 2 Spaces Forwards along a Rook Line if the intervening Space is empty.
 
