@@ -24,8 +24,10 @@ This Piece is a Snare Piece. This Piece may Move without Capturing 1 Space Forwa
 ## Promoted Snare Pawn (_bia-ngai_)
 This Piece is a Snare Piece. This Piece may Move or Capture 1 Space along Bishop Lines.
 # Additional Rules
-1. Non-Immutable Pieces may not make any diagonal Movements, Capturing or otherwise, to any Spaces either within or adjacent to this Battalion's Territory unless the starting and ending Spaces of the Movement are adjacent to each other. Both diagonal and orthogonal adjacency count as adjacency. This rule does not affect Moves or Captures to Spaces that are neither within nor adjacent to this Battalion's Territory. Notably, this rule does not affect any Moves or Captures from Spaces within or adjacent to this Battalion's Territory to Spaces that are neither within or adjacent to this Battalion's Territory.
-2. Pieces whose regular movement abilities are affected by the previous rule gain the ability to Move or Capture 1 Space Forwards along a Rook Line if they did not already have that ability. This ability can only be used to Move or Capture to Spaces within or adjacent to this Battalion's Territory. Like the case of the previous rule, the destination of the Move or Capture determines if this rule makes it legal.
+1. For the purposes of the rules in this section, both diagonal and orthogonal adjacency count as adjacency.
+2. For the purposes of the rules in this section, an Affected Space is a Space either within or adjacent to this Battalion's Territory; an Unaffected Space is a Space that is not an Affected Space. The distinction between Affected Spaces and Unaffected Spaces may be thought of as similar to the distinction between the sides of the River in the context of Xiang Dynasty.
+3. Non-Immutable Pieces may not make any diagonal Movements, Capturing or otherwise, to any Affected Spaces unless the starting and ending Spaces of the Movement are adjacent to each other. This rule does not affect Moves or Captures to Unaffected Spaces. Notably, this rule does not affect any Moves or Captures from Affected Spaces to Unaffected Spaces.
+4. Pieces whose regular movement abilities are affected by the previous rule gain the ability to Move or Capture 1 Space Forwards along a Rook Line if they did not already have that ability. This ability can only be used to Move or Capture to Affected Spaces. Like the case of the previous rule, the destination of the Move or Capture determines if this rule makes it legal.
 # Starting Territory
 ||^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|
