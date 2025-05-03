@@ -19,7 +19,7 @@ Promotion: A Claw that reaches the back Rank of an Opponent's Territory may Prom
 ### Arm
 The Arm Moves and Captures up to 4 Spaces along Bishop Lines or 3 Spaces along Bishop Lines followed by 1 Space in an adjacent direction along Rook Lines. It can also Leap without Capturing to Knight Spaces.
 
-If an Arm is used during the regular Phase of a Turn, during an Encroachment Phase of that Turn, a Worm Titan belonging to that Player may Move and Capture 1 Space along Bishop Lines by going 1 Space along Rook Lines, turning, and again going 1 Space along Rook Lines. During this process, the Worm Titan is considered to pass through the intermediate Space, which is important due to its ability The Boundless.
+If an Arm is used during the regular Phase of a Turn, during an Encroachment Phase of that Turn, a Worm Titan belonging to that Player may Move and Capture 1 Space along Bishop Lines by Moving Without Capturing 1 Space along Rook Lines, turning, and Moving or Capturing 1 Space along Rook Lines. During this process, the Worm Titan is considered to pass through the intermediate Space, which is important due to its ability The Boundless. Of course, this does not replace the Worm Titan's regular ability; it retains the ability to only go 1 Space along Rook Lines.
 
 ![Arm](https://github.com/user-attachments/assets/09943902-4d4a-49b8-99f9-05cd79095f47)
 * could Move or Capture to Spaces labeled "s" without Leaping
