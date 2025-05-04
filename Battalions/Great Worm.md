@@ -37,7 +37,7 @@ If a Wing is used during the regular Phase of a Turn, during an Encroachment Pha
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "x", which it could not Leap to
 * could Leap without Capturing to Spaces labeled "t"
 ### Talon
-The Talon combines the abilities of the Arm and the Wing. If a Talon is used, this affects a Worm Titan as if both an Arm and a Wing were used that turn.
+The Talon combines the abilities of the Arm and the Wing. If a Talon is used, this affects a Friendly Worm Titan as if both an Arm and a Wing were used that turn.
 
 ![Talon](https://github.com/user-attachments/assets/a454a3f9-2743-4d33-90f8-9fc14a4c1872)
 * could Move or Capture to Spaces labeled "s" without Leaping
@@ -52,4 +52,5 @@ The Leg Moves or Captures like a dabbabarider; this means that it Moves or Captu
 * could Leap without Capturing to Spaces labeled "t"
 ## Starting Territory
 ![Starting Territory](https://github.com/user-attachments/assets/428c8dca-114d-4cbe-9b5f-7137d0925c1b)
+
 A Worm Titan's Lair is the Space it begins on during Territory Placement, the original Space it was on.
