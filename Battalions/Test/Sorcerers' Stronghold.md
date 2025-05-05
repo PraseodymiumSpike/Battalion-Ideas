@@ -7,7 +7,7 @@ This Piece is a Titan. It Moves and Captures 1 Space along Rook Lines.
 ### Wile
 This Piece cannot be Captured. It Moves and Captures 1 Space along Rook Lines. At any point during a Turn of the Player Controlling it, its location can optionally be swapped with a Friendly Wizard's. This does not use up the Turn.
 ### Apprentice
-This Piece Moves and Captures 1 Square Forwards along Bishop Lines. It must Promote to Mage, Steed, or Mantle when the Turn of the Player Controlling it ends while it's in the back Rank of an Opponent's Territory. 
+This Piece Moves and Captures 1 Square Forwards along Bishop Lines. It must Promote to Mage, Steed, or Trap when the Turn of the Player Controlling it ends while it's in the back Rank of an Opponent's Territory. 
 ### Mage
 This Piece Moves and Captures an unlimited number of Squares along Rook Lines or to Knight Squares.
 ### Steed
