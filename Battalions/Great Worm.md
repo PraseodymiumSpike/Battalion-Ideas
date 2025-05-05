@@ -3,7 +3,7 @@
 This is adapted from an still-untested Ordamirror variant that I made a while ago which can be found [here](https://praseodymiumspike.neocities.org/Snake_in_Ordamirror). The idea of having the entire Battalion be a single monstrous creature is taken from Mad Chess, and some Piece abilities are inspired by the Pieces from that game as well.
 ## Pieces
 ### Worm Titan
-The Worm Titan is a Titan. It Moves and Captures 1 Space along Rook Lines, and its abilities may be temporarily augmented based on the Movements of other Pieces; this is described in the subsections about those Pieces. The Worm Titan can Move or Capture through but not into Check. Worm Titans are Immutable.
+The Worm Titan is a Titan. It Moves and Captures up to 2 Spaces along Rook Lines, and its abilities may be temporarily augmented based on the Movements of other Pieces; this is described in the subsections about those Pieces. The Worm Titan can Move or Capture through but not into Check. Worm Titans are Immutable.
 
 The Boundless: The Worm Titan cannot visit or pass through a Space it has already been on or passed through previously at any point in the game. Spaces it has visited or passed through should be marked somehow to remind Players that it cannot enter those Spaces again.
 
