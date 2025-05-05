@@ -1,6 +1,6 @@
 # Sorcerers' Stronghold (Failed Idea)
 ## Preface
-I once wondered if it would be interesting if you could not capture 1 King and then checkmate the other in Spartan Chess but had to actually win through Duple-Check and Mate. This concept is implemented in a weird way here to make it suitable for Titan's Battalion, and the Wizard and the Wile are both equivalents to the Kings despite only 1 of them being a Titan. If they moved like Kings and could not be captured individually, they would be too strong, so I made them weaker. I wanted to be able to balance this using Fairy-Stockfish, but it seems that won't be possible, so I'm likely not going to continue this for the time being.
+I once wondered if it would be interesting if you could not capture 1 King and then checkmate the other in Spartan Chess but had to actually win through Duple-Check and Mate. This concept is implemented in a weird way here to make it suitable for Titan's Battalion, and the Wizard and the Wile are both equivalents to the Kings despite only 1 of them being a Titan. If they moved like Kings and could not be captured individually, they would be too strong, so I made them weaker. I wanted to be able to balance this using Fairy-Stockfish, but it seems that won't be possible until [this Fairy-Stockfish Issue](https://github.com/fairy-stockfish/Fairy-Stockfish/issues/822) is resolved, so I'm likely not going to continue this for the time being.
 ## Pieces
 ### Wizard
 This Piece is a Titan. It Moves and Captures 1 Space along Rook Lines.
