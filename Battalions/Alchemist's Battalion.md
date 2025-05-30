@@ -1,31 +1,31 @@
 ﻿This is my continuation of potat5479's Alchemist's Battalion. In a setting of a drop game, its strength is meant to be that its Pieces can wildly change the squares they're attacking, hopefully allowing for interesting tactics, and its weakness is meant to be the requirement that it have no Pieces in hand left after Checkmating, limiting _tsume_ possibilities.  
 
-<u>Inspired and largely based on Shogi and Shogi variants. The Alchemist Titan, armed with the philosopher’s stone, is capable of transmuting metals to adapt its powerful magical constructs to any situation, while also reviving enemy pieces and bolstering its own.</u> (potat5479's description)  
+_Inspired and largely based on Shogi and Shogi variants. The Alchemist Titan, armed with the philosopher’s stone, is capable of transmuting metals to adapt its powerful magical constructs to any situation, while also reviving enemy pieces and bolstering its own._ (potat5479's description)  
 
 Your territory is 9-by-3.  
 
   
 
-||||||||||||
+||^|^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|-|
-||H|H|H|H|H|H|H|H|H||
-|||B||||||A|||
-||R|M|S|G|K|G|S|M|R||
-||||||||||||
+|x|H|H|H|H|H|H|H|H|H|x|
+|x||B||||||A||x|
+|x|R|M|S|G|K|G|S|M|R|x|
+|x|x|x|x|x|x|x|x|x|x|x|
 
   
 
-Cyan is the Battlefield. Red is off the Board.  
+"^" is the Battlefield. "x" is off the Board.  
 
   
 
-||||||||||||
+||^|^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|-|
-||||||||||||
-||H|H|H|H|H|H|H|H|H||
-|||B||||||A|||
-||R|M|S|G|K|G|S|M|R||
-||||||||||||
+|x||||||||||x|
+|x|H|H|H|H|H|H|H|H|H|x|
+|x||B||||||A||x|
+|x|R|M|S|G|K|G|S|M|R|x|
+|x|x|x|x|x|x|x|x|x|x|x|
 
   
 
