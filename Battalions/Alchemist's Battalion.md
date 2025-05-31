@@ -73,6 +73,10 @@ can Move without Capturing at %
 
 Nifu: Outside of Party Mode, any Move which results in 2 or more allied Homunculi being on the same File is Illegal. The Homunculus and the Shogun’s Pawn (or any other Piece with a nifu rule) are considered to be the same Piece for the purposes of this Rule.
 
+can Promote to Gilt Homunculus when moving into, out of, or within the last 3 Ranks of an Opponent's Territory
+
+must promote when moving to the last Rank of an Opponent's Territory
+
 Territory
 ||\*||
 |-|-|-|
@@ -86,6 +90,14 @@ Battlefield
 ||||
 
 count: 9
+## Gilt Homunculus
+can Move and Capture at \*
+|\*|\*|\*|
+|-|-|-|
+|\*|H|\*|
+||\*||
+
+count: 0
 ## Tin Golem
 can move and capture at \* (range of only 2 Spaces)  
 ||||||
@@ -209,7 +221,7 @@ _Before the invention of the electrolysis method for extracting aluminum, it was
 
 count: 1<br></br><br></br>
 
-**(from here on are my notes for myself, this is not part of the rules)**  
+**(from here on are my notes for myself, this is not part of the rules)**
 
 all the insert-material-here "general" pieces in shogi, sho, chu, taikyoku, dai, tenjiku, dai dai, maka dai dai, tai (according to Wikipedia)  
 
