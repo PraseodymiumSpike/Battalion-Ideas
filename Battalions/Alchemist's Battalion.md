@@ -8,8 +8,8 @@ Your territory is 9-by-3.
 ||^|^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|-|
 |x|H|H|H|H|H|H|H|H|H|x|
-|x||B||||||A||x|
-|x|R|M|S|G|K|G|S|M|R|x|
+|x|I|A||||||R|I|x|
+|x||T|S|G|K|G|S|T||x|
 |x|x|x|x|x|x|x|x|x|x|x|
 
 "^" is the Battlefield. "x" is off the Board.  
@@ -18,8 +18,8 @@ Your territory is 9-by-3.
 |-|-|-|-|-|-|-|-|-|-|-|
 |x||||||||||x|
 |x|H|H|H|H|H|H|H|H|H|x|
-|x||B||||||A||x|
-|x|R|M|S|G|K|G|S|M|R|x|
+|x|I|A||||||R|I|x|
+|x||T|S|G|K|G|S|T||x|
 |x|x|x|x|x|x|x|x|x|x|x|
 
 Extended Layout
@@ -28,7 +28,6 @@ Extended Layout
 Titan
 
 can Move and Capture at \*
-
 |\*|\*|\*|
 |-|-|-|
 |\*|K|\*|
@@ -36,19 +35,17 @@ can Move and Capture at \*
 
 count: 1
 ### Philosopher’s Stone
-Most Pieces in this Battalion have a Tier assigned to them; this is used for certain special Abilities. Tiers are on roughly the same scale as Chess Evolved Online Units and janggi pieces. The Tiers are as follows:
-1.  Tin Golem
-2.  Lead Golem
-3.  Iron Golem
-4.  Copper Golem
-5.  Silver Golem
-6.  Gold Golem
-7.  Bismuth Golem
-8.  Ruthenium Golem
-9.  Zinc Golem
-10.  Mercury Golem
-11.  Platinum Golem
-12.  Aluminum Golem
+Most Pieces in this Battalion have a Tier assigned to them; this is used for certain special Abilities. The scale of Tiers is off by roughly a factor of 2 compared to the scale used by Chess Evolved Online Units and janggi pieces. The Tiers are as follows:
+
+|Tier|Piece|
+|-|-|
+|1|Lead Golem|
+|2|Iron Golem|
+|3|Silver Golem|
+|4|Gold Golem|
+|5|Aluminum Golem|
+|6|Tungsten Golem|
+|7|Radium Golem|
 
 The special abilites referred to earlier are Fusion and Fission. Only Players who control an Alchemist Titan on the Board can use these special Abilities, and the Abilities can only be used on their own Pieces.
 #### Fusion  
@@ -61,11 +58,6 @@ Fusion isn't Possible if it would create a Piece with a Tier that no Piece Type 
 A Piece with a Tier may as an action split into 2 pieces for which the sum of their Tiers is equal to the Tier of the Piece that is undergoing Fission. One of the new Pieces replaces the Piece that was split (This is not consiered a Promotion.), and the other is placed on an "empty" Space ("empty" being defined as any Space that a Piece can be dropped on) Adjacent to that Piece. If there is no available "empty" Space, the Fission isn't Possible.  
 ### Elixir of Life
 identical to the drop rule (Jade Spiritomancy) from Shogun’s Battalion
-### Maniacal Dedication 
-It is Illegal for a Player who Controls an Alchemist Titan on the Board to Checkmate their Opponent if they would still have Pieces in hand after Checkmating.
-* This doesn't apply in Party Mode since Checkmate doesn't exist.   
-* This only counts Pieces in hand that got there through Elixir of Life or an equivalent Rule such as Jade Spiritomancy or Bird Spiritomancy. So having The Haunted in hand doesn't make Checkmate Illegal.
-* (inspired by lilylionmane's various attempts to use all of her pieces in hand in shogi)  
 ## Homunculus
 can Move and Capture at \*
 
@@ -94,18 +86,8 @@ count: 9
 can Move and Capture at \*
 |\*|\*|\*|
 |-|-|-|
-|\*|H|\*|
+|\*|+H|\*|
 ||\*||
-
-count: 0
-## Tin Golem
-can move and capture at \* (range of only 2 Spaces)  
-||||||
-|-|-|-|-|-|
-||||||
-|||T|||
-|||\*|||
-|||\*|||
 
 count: 0
 ## Lead Golem
@@ -125,15 +107,7 @@ can Move and Capture at \*
 ||I||
 ||||
 
-Count: 0
-## Copper Golem
-can Move and Capture at \*
-|\*|\*|\*|
-|-|-|-|
-||C||
-||\*||
-
-Count: 0
+Count: 2
 ## Silver Golem
 can Move and Capture at \*  
 
@@ -151,71 +125,38 @@ can Move and Capture at \*
 ||\*||
 
 count: 2
-## Bismuth Golem
+## Aluminum Golem  
 can Move and Capture at \* (range of only 2 Spaces)
 
 can Leap and Capture by Leaping at #
+
+_Before the invention of an industrial method for extracting aluminum, it was one of the rarest and most valuable metals in the world._
 |\*||||\*|
 |-|-|-|-|-|
-||\*||\*||
-|||B|||
+|#|\*||\*|#|
+|||A|||
 ||\*||\*||
 |\*||||\*|
 
 count: 1
-## Ruthenium Golem  
-can Move and Capture at \* (range of only 2 Spaces)
-
-can Leap and Capture by Leaping at #
-|\*||||\*|
-|-|-|-|-|-|
-|#|\*||\*|#|
-|||R|||
-||\*||\*||
-||||||
-
-count: 2
-## Zinc Golem  
+## Tungsten Golem  
 can Leap and Capture by Leaping at #
 
-|#||#||#|
-|-|-|-|-|-|
-||||||
-|#||Z||#|
-||||||
-|#||#||#|
-
-count: 0
-## Mercury Golem
-can Leap and Capture by Leaping at #
-||#||#||
+||#|#|#||
 |-|-|-|-|-|
 |#||||#|
-|||M|||
+|||T|||
 |#||||#|
-||#||#||
+||#|#|#||
 
 count: 2
-## Platinum Golem
+## Radium Golem
 can Move and Capture at \*
 
-can Leap and Capture by Leaping at #
-||||||
-|-|-|-|-|-|
-||\*|\*|\*||
-|#|\*|P|\*|#|
-||\*|\*|\*||
-||||||
-
-count: 0  
-## Aluminum Golem
-can Move and Capture at \*  
-
-_Before the invention of the electrolysis method for extracting aluminum, it was one of the rarest and most valuable metals in the world._  
 |||&#x2191;|||
 |-|-|-|-|-|
 |||\*|||
-|&#x2190;|\*|A|\*|&#x2192;|
+|&#x2190;|\*|R|\*|&#x2192;|
 |||\*|||
 |||&#x2193;|||
 
