@@ -91,7 +91,7 @@ can Move and Capture at \*
 
 count: 0
 ## Lead Golem
-can move and capture at \* (range of only 2 Spaces)  
+can Move and Capture at \* (range of only 2 Spaces)  
 ||||||
 |-|-|-|-|-|
 |||\*|||
