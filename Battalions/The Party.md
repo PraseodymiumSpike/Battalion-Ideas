@@ -62,24 +62,24 @@ The Paramilitant Moves without Capturing up to 2 Spaces Forwards or up to 1 Spac
 * could Move without Capturing to Space labeled "x" under certain circumstances
 * could Move without Capturing to Space labeled "b" from a Space on the Battlefield
 ### Senator
-The Senator Moves or Captures 1 Space along Rook Lines or Moves or Captures by Leaping 2 Spaces along a Bishop Line. If it Leaps in that way over a Space containing a Friendly Supporter, it may Leap 2 Spaces along a Bishop Line again in the same Turn even if it previously Captured that Turn. It may continue Leaping in this way regardless of how many Leaps it made previously that Turn. However, it may only Leap a finite number of times in a Turn. Note that each Leap is considered a separate movement and could separately cause Any Supporter on the Space the Leap ends on to Capture itself.
+The Senator Moves or Captures 1 Space along Rook Lines or Moves or Captures by Leaping 2 Spaces along Queen Lines. If it Leaps in that way over a Space containing a Friendly Supporter, it may Leap 2 Spaces along Queen Lines again in the same Turn even if it previously Captured that Turn. It may continue Leaping in this way regardless of how many Leaps it made previously that Turn as long as each Leap except the final one is a Leap over a Space containing a Friendly Supporter; the final Leap may be over a Space containing a Friendly Supporter but does not have to be. It may only Leap a finite number of times in a Turn. Note that each Leap is considered a separate movement and could separately cause Any Supporter on the Space the Leap ends on to Capture itself.
 ||||||
 |-|-|-|-|-|
-|x||||x|
+|x||x||x|
 |||s|||
-||s|S|s||
+|x|s|S|s|x|
 |||s|||
-|x||||x|
+|x||x||x|
 * could use unique movement ability starting by going to Spaces labeled "x"
 * could Move or Capture to Spaces labeled "s"
 ### Deputy
-The Deputy Moves or Captures 1 Space along Rook Lines or Moves or Captures to Knight Spaces by going 1 Space along a Rook Line and then 1 Space along a Bishop Line like a xiangqi horse.
+The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to Knight Spaces by going 1 Space along a Bishop Line and then 1 Space along a Rook Line like a limited Frost Beasts Spider.
 ||||||
 |-|-|-|-|-|
 ||y||y||
-|y||s||y|
-||s|D|s||
-|y||s||y|
+|y|s||s|y|
+|||D|||
+|y|s||s|y|
 ||y||y||
 * could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "s"
 * could Move or Capture to Spaces labeled "s"
@@ -98,7 +98,7 @@ Certain Pieces from this Battalion may become Full-depth Reinforcements due to g
 |-|-|-|-|-|-|-|-|-|-|
 |x|||||||||x|
 |x|X|P|P|P|P|P|P|X|x|
-|x|M|S|D|K|C|D|S|M|x|
+|x|S|M|D|K|C|D|M|S|x|
 |x|x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
 If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Full-depth Reinforcements.
