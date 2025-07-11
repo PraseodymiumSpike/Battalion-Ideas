@@ -51,27 +51,26 @@ A Player's Support Level is the number of Supporters they Control on the Board p
 #### Capture of a Chancellor
 If a Chancellor is Captured by a Player other than the Player Controlling that Chancellor, the Player who owned the Chancellor before its Capture gains a new Chancellor as a Full-depth Reinforcement, but the Player who Captured the Chancellor accomplishes a Coup. Full-depth reinforcements are explained later. Coups have no effect other than increasing Players' Support Level.
 ### Paramilitant
-The Paramilitant Moves without Capturing up to 2 Spaces Forwards or up to 1 Space sideways along Rook Lines or Captures 1 Space Forwards along Bishop Lines. When it is not on its back 2 Ranks, it loses the ability described to Move more than 1 Space. When it is not on the Battlefield, it loses the ability described to Move sideways along Rook Lines. It must Promote to Senator, Deputy, or Minister if it reaches its Opponent's Back Rank. It can Capture and be Captured *en passant* like a Medieval Pawn.
+The Paramilitant Moves without Capturing 1 Space Forwards or 1 Space sideways along Rook Lines or Captures 1 Space Forwards along Bishop Lines. When it is not on the Battlefield, it does not have the ability described to Move sideways along Rook Lines. It must Promote to Senator, Deputy, or Minister if it reaches its Opponent's Back Rank. It can Capture *en passant* like a Medieval Pawn.
 ||||
 |-|-|-|
-||x||
 |c|m|c|
 |b|P|b|
-* could Move without Capturing to Space labeled "s"
+* could Move without Capturing to Space labeled "m"
 * could Capture to Spaces labeled "c"
-* could Move without Capturing to Space labeled "x" under certain circumstances
 * could Move without Capturing to Space labeled "b" from a Space on the Battlefield
 ### Senator
-The Senator Moves or Captures 1 Space along Rook Lines or Moves or Captures by Leaping 2 Spaces along Queen Lines. If it Leaps in that way over a Space containing a Friendly Supporter, it may Leap 2 Spaces along Queen Lines again in the same Turn even if it previously Captured that Turn. It may continue Leaping in this way regardless of how many Leaps it made previously that Turn as long as each Leap except the final one is a Leap over a Space containing a Friendly Supporter; the final Leap may be over a Space containing a Friendly Supporter but does not have to be. It may only Leap a finite number of times in a Turn. Note that each Leap is considered a separate movement and could separately cause Any Supporter on the Space the Leap ends on to Capture itself.
+The Senator Moves or Captures up to 2 Spaces along Rook Lines or Moves or Captures by Leaping 2 Spaces along Bishop Lines. It may also Move or Capture an unlimited number of Spaces along a Rook Line if the first Space it would encounter when moving along that Rook Line is occupied by a Friendly Supporter. 
 ||||||
 |-|-|-|-|-|
-|x||x||x|
-|||s|||
-|x|s|S|s|x|
-|||s|||
-|x||x||x|
-* could use unique movement ability starting by going to Spaces labeled "x"
-* could Move or Capture to Spaces labeled "s"
+|j||s||j|
+|||x|||
+|s|x|S|x|s|
+|||x|||
+|j||s||j|
+* could Move or Capture to Spaces labeled "x" or, under certain circumstances, slide in directions of Spaces labeled "x"
+* could Move or Capture to Spaces labeled "s" without Leaping
+* could Leap or Capture by Leaping to Spaces labeled "j"
 ### Deputy
 The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to Knight Spaces by going 1 Space along a Bishop Line and then 1 Space along a Rook Line like a limited Frost Beasts Spider.
 ||||||
@@ -90,17 +89,17 @@ The Minister Moves or Captures an unlimited number of Spaces along Bishop Lines.
 |r||r|
 ||M||
 |r||r|
-* could Move or Capture in the directions of Spaces labeled "r"
+* could slide in the directions of Spaces labeled "r"
 ## Full-depth Reinforcements
 Certain Pieces from this Battalion may become Full-depth Reinforcements due to game mechanics. Full-depth Reinforcements may be placed in the Territory of the Player Controlling them as a Turn. They may only be placed on an empty Space or a Space occupied only by Pieces that don't block movement such as Haunted, Hexes, Supporters, Whisperers, and Wills o' Wisp.
 ## Starting Territory
 ||^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|
-|x|||||||||x|
-|x|X|P|P|P|P|P|P|X|x|
-|x|S|M|D|K|C|D|M|S|x|
+|x|P|P|P|P|P|P|P|P|x|
+|x|X|||||||X|x|
+|x|S|K|D|M|M|D|C|S|x|
 |x|x|x|x|x|x|x|x|x|x|
 ## Beginning of the Game
 If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Full-depth Reinforcements.
 ## Additional Note
-2 Players playing The Perfect Balance Battalion as a team are considered 1 Player for the purposes of these rules.
+As should go without saying, 2 Players playing The Perfect Balance Battalion as a team are considered 1 Player for the purposes of these rules.
