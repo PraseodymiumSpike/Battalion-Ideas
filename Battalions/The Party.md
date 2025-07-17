@@ -3,12 +3,15 @@
 This Battalion is a work in progress. It is based on the video game _Ataxx_ by Leland Corporation. The most important Piece from this perspective is the Supporter. This is the Piece Type whose mechanics actually mirror _Ataxx_. I have no idea if this is going to work well as a mechanic or not. We will have to see. The Piece Type names are based on a vague stereotype of a first-world or second-world political party or a faction within such a party. The ideology is ambiguous, but the party does not shy away from coercion.
 
 This shouldn't be the final page for this Battalion, either. This is just temporary. Roland will hopefully make a document for it if this idea goes anywhere.
+
+I would like to give a special thanks to churrumais7172 on Discord for helping test this Battalion and giving good suggestions which improved it!
 ## Pieces
 ### Supporter
-The Supporter and its mechanics are be described here. Some of the rules surrounding the Supporter are listed below. Note that in some ways, the Supporter acts like a property of a Square on the Board instead of like an actual Piece.
+The Supporter and its mechanics are be described here. Some of the rules surrounding the Supporter are listed below. Note that in some ways, the Supporter acts like a property of a Space on the Board instead of like an actual Piece.
 #### Basic Information
 1. The Supporter may Move but not Capture to another Space within 2 of the Space it's on, and it cannot move to a Space occupied by another non-Haunted non–Cultist-Hex Piece. It is not impeded by Any Pieces in the way. If there is a Haunted or Hex on the Space a Supporter moves to, this does not result in the Haunted or Hex Capturing itself; they share that Space.
 2. Supporters don't count as Pieces for determining groups for _w&#233;iq&#237;_-style Capture.
+3. A Player using The Party loses if they have no Supporters on the Board.
 
 ||||||
 |-|-|-|-|-|
