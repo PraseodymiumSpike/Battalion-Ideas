@@ -1,10 +1,8 @@
 # Baroque Battalion
 ## Preface
-This is essentially a 1-to-1 copy of the army each side has in _Ultima_ by the late Robert Abbott, described on [The Chess Variant Pages](https://www.chessvariants.com/other.dir/ultima.html). Very little on this page is in any way original, so all credit for it should go to Robert Abbott. The Battalion's name comes from that _Ultima_ is also called "_Baroque Chess_".
+This is essentially a 1-to-1 copy of the army each side has in _Ultima_ by the late Robert Abbott, [described on The Chess Variant Pages](https://www.chessvariants.com/other.dir/ultima.html). Very little on this page is in any way original, so all credit for it should go to Robert Abbott. The Battalion's name comes from that _Ultima_ is also called "_Baroque Chess_".
 
 Since this document is pretty technical and pedantic in an attempt to make it compatible with all of the things that can occur in Titan's Battalion, it is highly recommended to be familiar with the rules of Ultima before reading this document.
-
-2 Players playing The Perfect Balance Battalion together count as 1 Player for all the rules in this document.
 ## Extra-Strength Battalions
 I propose that certain Battalions including this one be categorized as "Extra-Strength Battalions". A Battalion that's the full chu shogi army or the non-rebalanced _Djambi_ army would also be in this category. The rules in the remaining paragraphs in this section would apply to these Battalions.
 
@@ -71,11 +69,13 @@ There is a diagram [here](https://www.chessvariants.com/other.dir/ultimapieces.h
 * L: Long Leaper
 * C: Coordinator
 * I: Immobilizer
-* P: Pawn
-## Potential Version for non-Party-Mode Matches
-In a non-Party-Mode Match, perhaps, it would work if the following changes were made:
+* P: Baroque Pawn
+## Potential Version for non&#x2013;Party Mode Matches
+In a non&#x2013;Party Mode Match, perhaps, this Battalion would work if the following changes were made:
 * Baroque Battalion's Starting Territory does not include Chameleons; the Spaces they would start on normally start empty instead.
 * The Player whose Opponent is using Baroque Battalion gets 2 Chameleons as Instant Reinforcements. Instant Reinforcements are exactly like Backline Reinforcements except that they can be placed on the Back Rank as part of Territory Placement.
-* Chameleons are massively simplified. They may only Capture Baroque Battalion Pieces, and they interact with Enemy Baroque Battalion Pieces exactly as Chameleons in _Ultima_ interact with Enemy Pieces. They don't have any other special interactions with Friendly Pieces at all. They are basically just Chameleons from _Ultima_ without the complexity in [the Chameleon section earlier in this document](https://github.com/PraseodymiumSpike/Battalion-Ideas/blob/main/Battalions/Baroque%20Battalion.md#chameleon).
+* Chameleons are massively simplified. They only have the ability to Capture Baroque Battalion Pieces, and they interact with Baroque Battalion Pieces exactly as Chameleons in _Ultima_ interact with the corresponding Pieces. They don't have any other special interactions with non&#x2013;Baroque Battalion Pieces at all. They are basically just Chameleons from _Ultima_ without the complexity in the Chameleon section earlier in this document.
 
 This version of Baroque Battalion wouldn't be an Extra-Strength Battalion as that label has no meaning in this context.
+## Additional Note
+2 Players playing The Perfect Balance Battalion together count as 1 Player for all the rules in this document.
