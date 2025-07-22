@@ -48,7 +48,7 @@ If the latter option is chosen, the Chameleon must Capture at least the Piece it
 #### Side-Effect Rule
 This rule is not likely to be very important outside of the mirror match, in which case this rule should make the Chameleon act essentially as it does in Ultima, so you can probably skip reading this rule. However, it's here to help with rulings.
 
-When a Chameleon acts in either of the 2 ways described above, each Capturable Enemy Piece "_x_" that fulfills the following critera are Captured:
+When a Chameleon acts in either of the 2 ways described above, each Capturable Enemy Piece "_x_" that fulfills the following critera is Captured:
 * "_x_" is not Immutable.
 * "_x_" is not a Chameleon.
 * Pieces of the same Piece Type as "_x_" can Capture Pieces as a non-optional side effect of some action that they can normally take. Withdrawers, Coordinators, and Baroque Pawns would fulfill this criterion. As an additional example, if a *tenjiku sho&#773;gi* Fire Demon were added to Titan's Battalion, it would also fulfill this criterion due to its power to burn Pieces.
@@ -77,5 +77,7 @@ In a non&#x2013;Party Mode Match, perhaps, this Battalion would work if the foll
 * Chameleons are massively simplified. They only have the ability to Capture Baroque Battalion Pieces, and they interact with Baroque Battalion Pieces exactly as Chameleons in _Ultima_ interact with the corresponding Pieces. They don't have any other special interactions with non&#x2013;Baroque Battalion Pieces at all. They are basically just Chameleons from _Ultima_ without the complexity in the Chameleon section earlier in this document.
 
 This version of Baroque Battalion wouldn't be an Extra-Strength Battalion as that label has no meaning in this context.
+
+After some testing, it has been found that this version of Baroque Battalion is far too weak. However, it seems difficult to fix this issue in a satisfying way.
 ## Additional Note
 2 Players playing The Perfect Balance Battalion together count as 1 Player for all the rules in this document.
