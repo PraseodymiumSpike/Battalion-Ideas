@@ -102,6 +102,8 @@ Certain Pieces from this Battalion may become Full-depth Reinforcements due to g
 |x|X|||||||X|x|
 |x|S|K|D|M|M|D|C|S|x|
 |x|x|x|x|x|x|x|x|x|x|
+
+The Starting Territory can be mirrored.
 ## Beginning of the Game
 If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Full-depth Reinforcements.
 ## Additional Note
