@@ -39,20 +39,16 @@ This Piece is a Titan. It may Move or Capture 1 Space along Queen Lines.
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"
 ### Chancellor
-The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines or Leaps to Knight Squares to Move or Capture. When the Player Controlling it does not have a Support Level strictly higher than their Opponent&#x2014;or, in Party Mode, the one of their Opponents with the highest Support Level&#x2014;it loses the ability to Capture indicated in the previous sentence.
+The Chancellor Moves or Captures an unlimited number of Squares along Rook Lines or Leaps to Knight Squares to Move or Capture.
 ||||||
 |-|-|-|-|-|
-||y|&#x2191;|y||
-|y||x||y|
-|&#x2190;|x|C|x|&#x2192;|
-|y||x||y|
-||y|&#x2193;|y||
-* could slide in directions of Spaces labeled "x", only able to Capture under certain circumstances
-* could Leap to Spaces labeled "y", only able to Capture under certain circumstances
-#### Support Level
-A Player's Support Level is the number of Supporters they Control on the Board plus 3 times the number of Coups they've accomplished so far in the game. Coups are explained in the next section.
-#### Capture of a Chancellor
-If a Chancellor is Captured by a Player other than the Player Controlling that Chancellor, the Player who owned the Chancellor before its Capture gains a new Chancellor as a Full-depth Reinforcement, but the Player who Captured the Chancellor accomplishes a Coup. Full-depth reinforcements are explained later. Coups have no effect other than increasing Players' Support Level.
+||j|&#x2191;|j||
+|j||r||j|
+|&#x2190;|r|C|r|&#x2192;|
+|j||r||j|
+||j|&#x2193;|j||
+* could slide in directions of Spaces labeled "r"
+* could Leap to Spaces labeled "j"
 ### Paramilitant
 The Paramilitant Moves without Capturing 1 Space Forwards or 1 Space sideways along Rook Lines or Captures 1 Space Forwards along Bishop Lines. When it is not on the Battlefield, it does not have the ability described to Move sideways along Rook Lines. It must Promote to Senator, Deputy, or Minister if it reaches its Opponent's Back Rank. It can Capture *en passant* like a Medieval Pawn.
 ||||
@@ -75,7 +71,7 @@ The Senator Moves or Captures up to 2 Spaces along Rook Lines or Moves or Captur
 * could Move or Capture to Spaces labeled "s" without Leaping
 * could Leap or Capture by Leaping to Spaces labeled "j"
 ### Deputy
-The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to Knight Spaces by going 1 Space along a Bishop Line and then 1 Space along a Rook Line like a limited Frost Beasts Spider.
+The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to Knight Spaces by going 1 Space along a Bishop Line and then 1 Space along a Rook Line like a limited Frost Beasts Spider. When the Player Controlling it does not have a Support Level strictly higher than their Opponent&#x2014;or, in Party Mode, the one of their Opponents with the highest Support Level&#x2014;it loses the ability to Move or Capture to Knight Spaces indicated in the previous sentence, generally reducing it to only Moving or Capturing 1 Space along Bishop Lines.
 ||||||
 |-|-|-|-|-|
 ||y||y||
@@ -83,8 +79,12 @@ The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to 
 |||D|||
 |y|s||s|y|
 ||y||y||
-* could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "s"
+* could Move or Capture to Spaces labeled "y" through an adjacent Space labeled "s" under certain circumstances
 * could Move or Capture to Spaces labeled "s"
+#### Support Level
+A Player's Support Level is the number of Supporters they Control, whether on the Board or as Reinforcements, plus the number of times they've Captured another Player's Deputy.
+#### Capture of a Deputy
+If a Deputy is Captured by a Player other than the Player Controlling that Deputy, at the end of the Turn during which that Capture took place, the Player who Captured the Deputy must if possible place 1 new Deputy&#x2014;one controlled by the Player whose Deputy was Captured&#x2014;on an empty Space of the Board or a Space of the Board occupied only by Pieces that don't block movement such as Haunted and Supporters. If a Player Captured multiple Deputies controlled by another Player or other Players, new Deputies would accordingly be placed for each one.
 ### Minister
 The Minister Moves or Captures an unlimited number of Spaces along Bishop Lines.
 ||||
@@ -93,8 +93,6 @@ The Minister Moves or Captures an unlimited number of Spaces along Bishop Lines.
 ||M||
 |r||r|
 * could slide in the directions of Spaces labeled "r"
-## Full-depth Reinforcements
-Certain Pieces from this Battalion may become Full-depth Reinforcements due to game mechanics. Full-depth Reinforcements may be placed in the Territory of the Player Controlling them as a Turn. They may only be placed on an empty Space or a Space occupied only by Pieces that don't block movement such as Haunted, Hexes, Supporters, Whisperers, and Wills o' Wisp.
 ## Starting Territory
 ||^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|
@@ -105,6 +103,6 @@ Certain Pieces from this Battalion may become Full-depth Reinforcements due to g
 
 The Starting Territory can be mirrored.
 ## Beginning of the Game
-If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Full-depth Reinforcements.
+If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Reinforcements. These Reinforcements can't be placed on the Board before the first Turn of the first Player who is using The Party as their Battalion. These Reinforcements can be placed anywhere within the Territory of the Player Controlling them.
 ## Additional Note
 As should go without saying, 2 Players playing The Perfect Balance Battalion as a team are considered 1 Player for the purposes of these rules.
