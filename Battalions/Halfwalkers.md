@@ -7,8 +7,8 @@
 
 "It was already too late for so many when she decided to help them whether they liked it or not. But, using the power of their Titan, the rest would be saved. To get them to their new home, she would have to stoop to their level for a bit, sure, but for once, the conflict would be worth it. After this, they would not be able to run back into their cage. Maybe they would eventually realize their causes weren't worth fighting for in the first place.
 
-"And so she molded her essence into a contingent of Lensers, entities that could temporarily bring targets into the peaceful plane of existence she had created, and prepared for what was to be the last battle.
+"And so she molded her essence into a contingent of  Rifts, entities that could temporarily bring targets into the peaceful plane of existence she had created, and prepared for what was to be the last battle.
 
 "The last battle ever."
-## Lenser Mechanics
-Most of the Piece Types in this Battalion are Lensers. Lensers have special mechanics regarding Capture. These mechanics are based on Paco Ŝako.
+## Rift Mechanics
+Most of the Piece Types in this Battalion are Rifts. Rifts have special mechanics regarding Capture. These mechanics are based on Paco &#348;ako.
