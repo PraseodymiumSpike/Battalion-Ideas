@@ -9,6 +9,6 @@
 
 "And so she molded her essence into a contingent of Lensers, entities that could temporarily bring targets into the peaceful plane of existence she had created, and prepared for what was to be the last battle.
 
-The last battle ever."
+"The last battle ever."
 ## Lenser Mechanics
 Most of the Piece Types in this Battalion are Lensers. Lensers have special mechanics regarding Capture. These mechanics are based on Paco Ŝako.
