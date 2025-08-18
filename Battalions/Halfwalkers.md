@@ -1,5 +1,5 @@
-# Halfwalkers
-For eons, she just watched.
+# Between Planes
+"For eons, she just watched.
 
 It never made sense how the lesser beings fought over trifles and trinkets—they always lost more than they gained. So much more. They invented honor, courage, revenge, sacrifice—the list went on and on—to balance the books. To feel victorious despite their suffering. To make comfort sound worse than misery.
 
@@ -9,4 +9,6 @@ It was already too late for so many when she decided to help them whether they l
 
 And so she molded her essence into a contingent of Halfwalkers, entities that could temporarily bring targets into the peaceful plane of existence she had created, and prepared for what was to be the last battle.
 
-The last battle ever.
+The last battle ever."
+## Halfwalkers
+Halfwalkers are a type of Piece Type with special mechanics regarding Capture. They are based on Paco Ŝako.
