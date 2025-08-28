@@ -12,5 +12,10 @@
 "The last battle ever."
 ## Stitch Mechanics
 Most of the Piece Types in this Battalion are Stitches. Stitches have special mechanics regarding Capture. These mechanics are based on Paco &#348;ako.
+### Coexistence of a Stitch and and Enemy Piece on a Space
+Stitches and Enemy Pieces may end up coexisting on a Space. In this case, any Player may Capture the set of Pieces on that Space&#2014;assuming all the Pieces there are Capturable&#2014;regardless of if they would be Capturing Friendly Pieces by doing so. In some cases, some of the Pieces Captured may immediately be returned to the Board; this is explained later.
 
-For the purposes of the rules in this document, a "lone" Stitch is defined as one that has no non-Immutable non-Stitch Pieces on the same Space as it, and a "lone" non-Stitch is defined as one with no Stitches on the same Space as it.
+For the purposes of the rules in this document, a "lone" Stitch is defined as one that has no non-Immutable non-Stitch Enemy Pieces on the same Space as it, and a "lone" non-Stitch is defined as one with no Enemy Stitches on the same Space as it.
+### Capture of a non-Lone Stitch
+
+### Clarifications
