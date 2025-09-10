@@ -12,6 +12,7 @@ The Supporter and its mechanics are be described here. Some of the rules surroun
 1. The Supporter may Move but not Capture to another Space within 2 of the Space it's on, and it cannot move to a Space occupied by another non-Haunted non–Cultist-Hex Piece. It is not impeded by Any Pieces in the way. If there is a Haunted or Hex on the Space a Supporter moves to, this does not result in the Haunted or Hex Capturing itself; they share that Space.
 2. Supporters don't count as Pieces for determining groups for _w&#233;iq&#237;_-style Capture.
 3. A Player using The Party loses if they have no Supporters on the Board.
+4. A Player not using The Party may not Move a Supporter if no Players that are using The Party have completed their first Turn of the game.
 
 ||||||
 |-|-|-|-|-|
@@ -71,7 +72,7 @@ The Senator Moves or Captures up to 2 Spaces along Rook Lines or Moves or Captur
 * could Move or Capture to Spaces labeled "s" without Leaping
 * could Leap or Capture by Leaping to Spaces labeled "j"
 ### Deputy
-The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to Knight Spaces by going 1 Space along a Bishop Line and then 1 Space along a Rook Line like a limited Frost Beasts Spider. When the Player Controlling it does not have a Support Level strictly higher than their Opponent&#x2014;or, in Party Mode, the one of their Opponents with the highest Support Level&#x2014;it loses the ability to Move or Capture to Knight Spaces indicated in the previous sentence, generally reducing it to only Moving or Capturing 1 Space along Bishop Lines.
+The Deputy Moves or Captures 1 Space along Bishop Lines or Moves or Captures to Knight Spaces by going 1 Space along a Bishop Line and then 1 Space along a Rook Line like a limited Frost Beasts Spider. When the Player Controlling it does not have a Support Level at least as high as their Opponent&#x2014;or, in Party Mode, one of their Opponents with the highest Support Level&#x2014;it loses the ability to Move or Capture to Knight Spaces indicated in the previous sentence, generally reducing it to only Moving or Capturing 1 Space along Bishop Lines.
 ||||||
 |-|-|-|-|-|
 ||y||y||
@@ -103,6 +104,6 @@ The Minister Moves or Captures an unlimited number of Spaces along Bishop Lines.
 
 The Starting Territory can be mirrored.
 ## Beginning of the Game
-If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as Reinforcements. These Reinforcements can't be placed on the Board before the first Turn of the first Player who is using The Party as their Battalion. These Reinforcements can be placed anywhere within the Territory of the Player Controlling them.
+If at least 1 Player is using The Party as their Battalion, each Player not using The Party as their Battalion gets 2 Supporters as special Reinforcements that can be placed anywhere within the Territory of the Player Controlling them and which can be placed during Territory Placement.
 ## Additional Note
 As should go without saying, 2 Players playing The Perfect Balance Battalion as a team are considered 1 Player for the purposes of these rules.
