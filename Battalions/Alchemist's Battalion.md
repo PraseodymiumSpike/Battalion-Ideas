@@ -1,5 +1,5 @@
 # Preface
-This is my continuation of potat5479's Alchemist's Battalion. In a setting of a drop game, its strength is meant to be that its Pieces can wildly change the squares they're attacking, hopefully allowing for interesting tactics, and its weakness is meant to be the requirement that it have no Pieces in hand left after Checkmating, limiting _tsume_ possibilities.  
+This is my continuation of potat5479's Alchemist's Battalion. In a setting of a drop game, its strength is meant to be that its Pieces can wildly change the squares they're attacking, hopefully allowing for interesting tactics.  
 
 _Inspired and largely based on Shogi and Shogi variants. The Alchemist Titan, armed with the philosopher’s stone, is capable of transmuting metals to adapt its powerful magical constructs to any situation, while also reviving enemy pieces and bolstering its own._ (potat5479's description)
 # Territory
