@@ -1,4 +1,4 @@
-# The Reptilian Order (WIP)
+# The Reptilian Order
 ## Preface
 I don't really like this theming much to be honest. I mostly made this because I think the Zealot would be a cool Piece, and the rest follows the format from Khan's Chess and Empire Chess.
 
