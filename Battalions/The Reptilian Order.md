@@ -6,12 +6,12 @@ I don't know what to do with the pawn equivalents. I don't like Berolina pawns b
 
 I think this Battalion might be too strong right now, but it's hard to tell.
 ## Pieces
-### Komodo Dragon (K)
-The Komodo Dragon is a Titan. It Moves or Captures 1 Space along Queen Lines.
+### Prophet Titan (P)
+The Prophet Titan is a Titan. It Moves or Captures 1 Space along Queen Lines.
 <!--||||
 |-|-|-|
 |s|s|s|
-|s|K|s|
+|s|P|s|
 |s|s|s|
 * could Move or Capture to Spaces labeled "s"-->
 ### Zealot (Z)
@@ -58,7 +58,7 @@ The Tortoise Moves without Capturing 1 Space Forwards along a Rook Line and Capt
 |-|-|-|-|-|-|-|-|-|-|
 |x|||||||||x|
 |x|T|T|T|T|T|T|T|T|x|
-|x|C|S|Z|G|K|Z|S|C|x|
+|x|C|S|Z|G|P|Z|S|C|x|
 |x|x|x|x|x|x|x|x|x|x|
 
 The Starting Territory can be mirrored.
