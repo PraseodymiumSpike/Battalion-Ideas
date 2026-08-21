@@ -23,3 +23,5 @@ The Zealot may Move or Capture an unlimited number of Spaces Forwards and to the
 |y||x|
 * could slide in the directions of Spaces labeled "x", possibly making a right-angle turn to the left
 * could slide in the directions of spaces labeled "y", possibly making a right-angle turn to the right
+#### Example
+<img width="1536" height="833" alt="image" src="https://github.com/user-attachments/assets/564fd572-0d31-4ef8-bb92-316f18f72763" />
