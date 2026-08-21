@@ -52,7 +52,7 @@ The Snake Moves without Capturing an unlimited number of Spaces along Bishop Lin
 ### Crocodile (C)
 The Crocodile Moves without Capturing an unlimited number of Spaces along Bishop Lines or Captures an unlimited number of Spaces along Rook Lines.
 ### Tortoise (T)
-The Tortoise Moves without Capturing 1 Space Forwards along a Rook Line and Captures 1 Space Forwards along Bishop Line; it can Capture _en passant_ like a Medieval Pawn. If on the first 2 Ranks of its Territory, it may Move without Capturing or Leaping exactly 2 Spaces Forwards along Bishop Lines; if it does so, it may be Captured _en passant_ like a Medieval Pawn&#2014;the Capturing Piece would Capture to the Space the Tortoise Moved through.
+The Tortoise Moves without Capturing 1 Space Forwards along a Rook Line and Captures 1 Space Forwards along Bishop Line; it can Capture _en passant_ like a Medieval Pawn. If on the first 2 Ranks of its Territory, it may Move without Capturing or Leaping exactly 2 Spaces Forwards along Bishop Lines; if it does so, it may be Captured _en passant_ like a Medieval Pawn&#x2014;the Capturing Piece would Capture to the Space the Tortoise Moved through.
 ## Starting Territory
 ||^|^|^|^|^|^|^|^||
 |-|-|-|-|-|-|-|-|-|-|
